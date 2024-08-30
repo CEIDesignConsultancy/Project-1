@@ -1,0 +1,3295 @@
+Date,State,Vegetable Name,Wholesale Price,Retail Price,Mall Price,Unit,Vegetable Image
+2024-05-01,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-01,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-01,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-01,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-01,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-01,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-01,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-01,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-01,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-01,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-01,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-05-01,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-01,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-01,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-01,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-01,Gujarat,Butter Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-01,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-01,Gujarat,Cabbage,21,24 - 27,25 - 35,1kg,N/A
+2024-05-01,Gujarat,Carrot,43,49 - 55,52 - 71,1kg,N/A
+2024-05-01,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-01,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-01,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-01,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-01,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-01,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-01,Gujarat,Corn,28,32 - 36,34 - 46,1kg,N/A
+2024-05-01,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-01,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-01,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-01,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-01,Gujarat,Brinjal,28,32 - 36,34 - 46,1kg,N/A
+2024-05-01,Gujarat,Brinjal (Big),25,29 - 32,30 - 41,1kg,N/A
+2024-05-01,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-01,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-01,Gujarat,French Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-01,Gujarat,Garlic,161,185 - 204,193 - 266,1kg,N/A
+2024-05-01,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-01,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-01,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-05-01,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-01,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-01,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-01,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-01,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-01,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-01,Gujarat,Ladies Finger,39,45 - 50,47 - 64,1kg,N/A
+2024-05-01,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-01,Gujarat,Radish,24,28 - 30,29 - 40,1kg,N/A
+2024-05-01,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-01,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-01,Gujarat,Snake Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-01,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-01,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-01,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-02,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-02,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-02,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-02,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-02,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-02,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-02,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-02,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-02,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-02,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-02,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-05-02,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-02,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-02,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-02,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-02,Gujarat,Butter Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-02,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-02,Gujarat,Cabbage,21,24 - 27,25 - 35,1kg,N/A
+2024-05-02,Gujarat,Carrot,43,49 - 55,52 - 71,1kg,N/A
+2024-05-02,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-02,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-02,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-02,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-02,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-02,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-02,Gujarat,Corn,28,32 - 36,34 - 46,1kg,N/A
+2024-05-02,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-02,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-02,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-02,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-02,Gujarat,Brinjal,28,32 - 36,34 - 46,1kg,N/A
+2024-05-02,Gujarat,Brinjal (Big),25,29 - 32,30 - 41,1kg,N/A
+2024-05-02,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-02,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-02,Gujarat,French Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-02,Gujarat,Garlic,161,185 - 204,193 - 266,1kg,N/A
+2024-05-02,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-02,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-02,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-05-02,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-02,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-02,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-02,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-02,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-02,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-02,Gujarat,Ladies Finger,39,45 - 50,47 - 64,1kg,N/A
+2024-05-02,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-02,Gujarat,Radish,24,28 - 30,29 - 40,1kg,N/A
+2024-05-02,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-02,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-02,Gujarat,Snake Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-02,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-02,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-02,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-03,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-03,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-03,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-03,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-03,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-03,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-03,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-03,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-03,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-03,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-03,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-05-03,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-03,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-03,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-03,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-03,Gujarat,Butter Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-03,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-03,Gujarat,Cabbage,21,24 - 27,25 - 35,1kg,N/A
+2024-05-03,Gujarat,Carrot,43,49 - 55,52 - 71,1kg,N/A
+2024-05-03,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-03,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-03,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-03,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-03,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-03,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-03,Gujarat,Corn,28,32 - 36,34 - 46,1kg,N/A
+2024-05-03,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-03,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-03,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-03,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-03,Gujarat,Brinjal,28,32 - 36,34 - 46,1kg,N/A
+2024-05-03,Gujarat,Brinjal (Big),25,29 - 32,30 - 41,1kg,N/A
+2024-05-03,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-03,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-03,Gujarat,French Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-03,Gujarat,Garlic,161,185 - 204,193 - 266,1kg,N/A
+2024-05-03,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-03,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-03,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-05-03,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-03,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-03,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-03,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-03,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-03,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-03,Gujarat,Ladies Finger,39,45 - 50,47 - 64,1kg,N/A
+2024-05-03,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-03,Gujarat,Radish,24,28 - 30,29 - 40,1kg,N/A
+2024-05-03,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-03,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-03,Gujarat,Snake Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-03,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-03,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-03,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-04,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-04,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-04,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-04,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-04,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-04,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-04,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-04,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-04,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-04,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-04,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-05-04,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-04,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-04,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-04,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-04,Gujarat,Butter Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-04,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-04,Gujarat,Cabbage,21,24 - 27,25 - 35,1kg,N/A
+2024-05-04,Gujarat,Carrot,43,49 - 55,52 - 71,1kg,N/A
+2024-05-04,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-04,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-04,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-04,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-04,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-04,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-04,Gujarat,Corn,28,32 - 36,34 - 46,1kg,N/A
+2024-05-04,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-04,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-04,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-04,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-04,Gujarat,Brinjal,28,32 - 36,34 - 46,1kg,N/A
+2024-05-04,Gujarat,Brinjal (Big),25,29 - 32,30 - 41,1kg,N/A
+2024-05-04,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-04,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-04,Gujarat,French Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-04,Gujarat,Garlic,161,185 - 204,193 - 266,1kg,N/A
+2024-05-04,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-04,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-04,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-05-04,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-04,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-04,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-04,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-04,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-04,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-04,Gujarat,Ladies Finger,39,45 - 50,47 - 64,1kg,N/A
+2024-05-04,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-04,Gujarat,Radish,24,28 - 30,29 - 40,1kg,N/A
+2024-05-04,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-04,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-04,Gujarat,Snake Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-04,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-04,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-04,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-05,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-05,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-05,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-05,Gujarat,Green Chilli,40,46 - 51,48 - 66,1kg,N/A
+2024-05-05,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-05,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-05-05,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-05,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-05,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-05,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-05-05,Gujarat,Baby Corn,60,69 - 76,72 - 99,1kg,N/A
+2024-05-05,Gujarat,Banana Flower,16,18 - 20,19 - 26,1kg,N/A
+2024-05-05,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-05,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-05,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-05,Gujarat,Butter Beans,46,53 - 58,55 - 76,1kg,N/A
+2024-05-05,Gujarat,Broad Beans,30,35 - 38,36 - 50,1kg,N/A
+2024-05-05,Gujarat,Cabbage,20,23 - 25,24 - 33,1kg,N/A
+2024-05-05,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-05,Gujarat,Cauliflower,27,31 - 34,32 - 45,1kg,N/A
+2024-05-05,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-05,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-05,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-05,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-05-05,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-05-05,Gujarat,Corn,26,30 - 33,31 - 43,1kg,N/A
+2024-05-05,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-05,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-05,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-05,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-05,Gujarat,Brinjal,22,25 - 28,26 - 36,1kg,N/A
+2024-05-05,Gujarat,Brinjal (Big),26,30 - 33,31 - 43,1kg,N/A
+2024-05-05,Gujarat,Elephant Yam,27,31 - 34,32 - 45,1kg,N/A
+2024-05-05,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-05,Gujarat,French Beans,45,52 - 57,54 - 74,1kg,N/A
+2024-05-05,Gujarat,Garlic,168,193 - 213,202 - 277,1kg,N/A
+2024-05-05,Gujarat,Ginger,110,127 - 140,132 - 182,1kg,N/A
+2024-05-05,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-05-05,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-05,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-05,Gujarat,Lemon (Lime),71,82 - 90,85 - 117,1kg,N/A
+2024-05-05,Gujarat,Mango Raw,32,37 - 41,38 - 53,1kg,N/A
+2024-05-05,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-05,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-05,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-05,Gujarat,Ladies Finger,37,43 - 47,44 - 61,1kg,N/A
+2024-05-05,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-05,Gujarat,Radish,27,31 - 34,32 - 45,1kg,N/A
+2024-05-05,Gujarat,Ridge Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-05,Gujarat,Shallot (Pearl Onion),29,33 - 37,35 - 48,1kg,N/A
+2024-05-05,Gujarat,Snake Gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-05,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-05,Gujarat,Spinach,11,13 - 14,13 - 18,1kg,N/A
+2024-05-05,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-06,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-06,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-06,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-06,Gujarat,Green Chilli,40,46 - 51,48 - 66,1kg,N/A
+2024-05-06,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-06,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-05-06,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-06,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-06,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-06,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-05-06,Gujarat,Baby Corn,60,69 - 76,72 - 99,1kg,N/A
+2024-05-06,Gujarat,Banana Flower,16,18 - 20,19 - 26,1kg,N/A
+2024-05-06,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-06,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-06,Gujarat,Bottle Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-06,Gujarat,Butter Beans,46,53 - 58,55 - 76,1kg,N/A
+2024-05-06,Gujarat,Broad Beans,30,35 - 38,36 - 50,1kg,N/A
+2024-05-06,Gujarat,Cabbage,20,23 - 25,24 - 33,1kg,N/A
+2024-05-06,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-06,Gujarat,Cauliflower,27,31 - 34,32 - 45,1kg,N/A
+2024-05-06,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-06,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-06,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-06,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-05-06,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-05-06,Gujarat,Corn,26,30 - 33,31 - 43,1kg,N/A
+2024-05-06,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-06,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-06,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-06,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-06,Gujarat,Brinjal,22,25 - 28,26 - 36,1kg,N/A
+2024-05-06,Gujarat,Brinjal (Big),26,30 - 33,31 - 43,1kg,N/A
+2024-05-06,Gujarat,Elephant Yam,27,31 - 34,32 - 45,1kg,N/A
+2024-05-06,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-06,Gujarat,French Beans,45,52 - 57,54 - 74,1kg,N/A
+2024-05-06,Gujarat,Garlic,168,193 - 213,202 - 277,1kg,N/A
+2024-05-06,Gujarat,Ginger,110,127 - 140,132 - 182,1kg,N/A
+2024-05-06,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-05-06,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-06,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-06,Gujarat,Lemon (Lime),71,82 - 90,85 - 117,1kg,N/A
+2024-05-06,Gujarat,Mango Raw,32,37 - 41,38 - 53,1kg,N/A
+2024-05-06,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-06,Gujarat,Mushroom,81,93 - 103,97 - 134,1kg,N/A
+2024-05-06,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-06,Gujarat,Ladies Finger,37,43 - 47,44 - 61,1kg,N/A
+2024-05-06,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-06,Gujarat,Radish,27,31 - 34,32 - 45,1kg,N/A
+2024-05-06,Gujarat,Ridge Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-06,Gujarat,Shallot (Pearl Onion),29,33 - 37,35 - 48,1kg,N/A
+2024-05-06,Gujarat,Snake Gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-06,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-06,Gujarat,Spinach,11,13 - 14,13 - 18,1kg,N/A
+2024-05-06,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-07,Gujarat,Onion Big,26,30 - 33,31 - 43,1kg,N/A
+2024-05-07,Gujarat,Onion Small,38,44 - 48,46 - 63,1kg,N/A
+2024-05-07,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-05-07,Gujarat,Green Chilli,43,49 - 55,52 - 71,1kg,N/A
+2024-05-07,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-07,Gujarat,Potato,32,37 - 41,38 - 53,1kg,N/A
+2024-05-07,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-07,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-07,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-07,Gujarat,Ash gourd,18,21 - 23,22 - 30,1kg,N/A
+2024-05-07,Gujarat,Baby Corn,59,68 - 75,71 - 97,1kg,N/A
+2024-05-07,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-07,Gujarat,Capsicum,49,56 - 62,59 - 81,1kg,N/A
+2024-05-07,Gujarat,Bitter Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-07,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-07,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-07,Gujarat,Broad Beans,32,37 - 41,38 - 53,1kg,N/A
+2024-05-07,Gujarat,Cabbage,22,25 - 28,26 - 36,1kg,N/A
+2024-05-07,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-07,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-07,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-05-07,Gujarat,Coconut,38,44 - 48,46 - 63,1kg,N/A
+2024-05-07,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-07,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-07,Gujarat,Coriander Leaves,8,9 - 10,10 - 13,1kg,N/A
+2024-05-07,Gujarat,Corn,29,33 - 37,35 - 48,1kg,N/A
+2024-05-07,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-05-07,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-07,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-07,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-07,Gujarat,Brinjal,24,28 - 30,29 - 40,1kg,N/A
+2024-05-07,Gujarat,Brinjal (Big),20,23 - 25,24 - 33,1kg,N/A
+2024-05-07,Gujarat,Elephant Yam,29,33 - 37,35 - 48,1kg,N/A
+2024-05-07,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-07,Gujarat,French Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-07,Gujarat,Garlic,170,196 - 216,204 - 281,1kg,N/A
+2024-05-07,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-07,Gujarat,Onion Green,43,49 - 55,52 - 71,1kg,N/A
+2024-05-07,Gujarat,Green Peas,43,49 - 55,52 - 71,1kg,N/A
+2024-05-07,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-07,Gujarat,Lemon (Lime),71,82 - 90,85 - 117,1kg,N/A
+2024-05-07,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-07,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-07,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-07,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-07,Gujarat,Ladies Finger,38,44 - 48,46 - 63,1kg,N/A
+2024-05-07,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-07,Gujarat,Radish,23,26 - 29,28 - 38,1kg,N/A
+2024-05-07,Gujarat,Ridge Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-07,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-07,Gujarat,Snake Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-07,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-07,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-07,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-08,Gujarat,Onion Big,26,30 - 33,31 - 43,1kg,N/A
+2024-05-08,Gujarat,Onion Small,38,44 - 48,46 - 63,1kg,N/A
+2024-05-08,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-05-08,Gujarat,Green Chilli,43,49 - 55,52 - 71,1kg,N/A
+2024-05-08,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-08,Gujarat,Potato,32,37 - 41,38 - 53,1kg,N/A
+2024-05-08,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-08,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-08,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-08,Gujarat,Ash gourd,18,21 - 23,22 - 30,1kg,N/A
+2024-05-08,Gujarat,Baby Corn,59,68 - 75,71 - 97,1kg,N/A
+2024-05-08,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-08,Gujarat,Capsicum,49,56 - 62,59 - 81,1kg,N/A
+2024-05-08,Gujarat,Bitter Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-08,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-08,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-05-08,Gujarat,Broad Beans,32,37 - 41,38 - 53,1kg,N/A
+2024-05-08,Gujarat,Cabbage,22,25 - 28,26 - 36,1kg,N/A
+2024-05-08,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-08,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-08,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-05-08,Gujarat,Coconut,38,44 - 48,46 - 63,1kg,N/A
+2024-05-08,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-08,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-08,Gujarat,Coriander Leaves,8,9 - 10,10 - 13,1kg,N/A
+2024-05-08,Gujarat,Corn,29,33 - 37,35 - 48,1kg,N/A
+2024-05-08,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-05-08,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-08,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-08,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-08,Gujarat,Brinjal,24,28 - 30,29 - 40,1kg,N/A
+2024-05-08,Gujarat,Brinjal (Big),20,23 - 25,24 - 33,1kg,N/A
+2024-05-08,Gujarat,Elephant Yam,29,33 - 37,35 - 48,1kg,N/A
+2024-05-08,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-08,Gujarat,French Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-08,Gujarat,Garlic,170,196 - 216,204 - 281,1kg,N/A
+2024-05-08,Gujarat,Ginger,112,129 - 142,134 - 185,1kg,N/A
+2024-05-08,Gujarat,Onion Green,43,49 - 55,52 - 71,1kg,N/A
+2024-05-08,Gujarat,Green Peas,43,49 - 55,52 - 71,1kg,N/A
+2024-05-08,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-08,Gujarat,Lemon (Lime),71,82 - 90,85 - 117,1kg,N/A
+2024-05-08,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-08,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-08,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-08,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-08,Gujarat,Ladies Finger,38,44 - 48,46 - 63,1kg,N/A
+2024-05-08,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-08,Gujarat,Radish,23,26 - 29,28 - 38,1kg,N/A
+2024-05-08,Gujarat,Ridge Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-08,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-08,Gujarat,Snake Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-08,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-08,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-08,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-09,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-09,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-09,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-09,Gujarat,Green Chilli,44,51 - 56,53 - 73,1kg,N/A
+2024-05-09,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-09,Gujarat,Potato,29,33 - 37,35 - 48,1kg,N/A
+2024-05-09,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-09,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-09,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-09,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-05-09,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-09,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-09,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-09,Gujarat,Bitter Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-09,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-09,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-09,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-09,Gujarat,Cabbage,18,21 - 23,22 - 30,1kg,N/A
+2024-05-09,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-09,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-09,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-09,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-09,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-09,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-09,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-09,Gujarat,Corn,30,35 - 38,36 - 50,1kg,N/A
+2024-05-09,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-09,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-09,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-09,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-09,Gujarat,Brinjal,25,29 - 32,30 - 41,1kg,N/A
+2024-05-09,Gujarat,Brinjal (Big),20,23 - 25,24 - 33,1kg,N/A
+2024-05-09,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-09,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-09,Gujarat,French Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-09,Gujarat,Garlic,170,196 - 216,204 - 281,1kg,N/A
+2024-05-09,Gujarat,Ginger,104,120 - 132,125 - 172,1kg,N/A
+2024-05-09,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-09,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-09,Gujarat,Ivy Gourd,24,28 - 30,29 - 40,1kg,N/A
+2024-05-09,Gujarat,Lemon (Lime),60,69 - 76,72 - 99,1kg,N/A
+2024-05-09,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-05-09,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-09,Gujarat,Mushroom,85,98 - 108,102 - 140,1kg,N/A
+2024-05-09,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-09,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-05-09,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-09,Gujarat,Radish,25,29 - 32,30 - 41,1kg,N/A
+2024-05-09,Gujarat,Ridge Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-09,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-09,Gujarat,Snake Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-09,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-09,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-09,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-05-10,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-10,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-10,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-10,Gujarat,Green Chilli,44,51 - 56,53 - 73,1kg,N/A
+2024-05-10,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-10,Gujarat,Potato,29,33 - 37,35 - 48,1kg,N/A
+2024-05-10,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-10,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-10,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-10,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-05-10,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-10,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-10,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-10,Gujarat,Bitter Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-10,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-10,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-10,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-10,Gujarat,Cabbage,18,21 - 23,22 - 30,1kg,N/A
+2024-05-10,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-10,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-10,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-10,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-10,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-10,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-10,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-10,Gujarat,Corn,30,35 - 38,36 - 50,1kg,N/A
+2024-05-10,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-10,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-10,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-10,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-10,Gujarat,Brinjal,25,29 - 32,30 - 41,1kg,N/A
+2024-05-10,Gujarat,Brinjal (Big),20,23 - 25,24 - 33,1kg,N/A
+2024-05-10,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-10,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-10,Gujarat,French Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-10,Gujarat,Garlic,170,196 - 216,204 - 281,1kg,N/A
+2024-05-10,Gujarat,Ginger,104,120 - 132,125 - 172,1kg,N/A
+2024-05-10,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-10,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-10,Gujarat,Ivy Gourd,24,28 - 30,29 - 40,1kg,N/A
+2024-05-10,Gujarat,Lemon (Lime),60,69 - 76,72 - 99,1kg,N/A
+2024-05-10,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-05-10,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-10,Gujarat,Mushroom,85,98 - 108,102 - 140,1kg,N/A
+2024-05-10,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-10,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-05-10,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-10,Gujarat,Radish,25,29 - 32,30 - 41,1kg,N/A
+2024-05-10,Gujarat,Ridge Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-10,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-10,Gujarat,Snake Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-10,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-10,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-10,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-05-11,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-11,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-11,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-11,Gujarat,Green Chilli,44,51 - 56,53 - 73,1kg,N/A
+2024-05-11,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-11,Gujarat,Potato,29,33 - 37,35 - 48,1kg,N/A
+2024-05-11,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-11,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-11,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-11,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-05-11,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-11,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-11,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-11,Gujarat,Bitter Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-11,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-11,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-11,Gujarat,Broad Beans,27,31 - 34,32 - 45,1kg,N/A
+2024-05-11,Gujarat,Cabbage,18,21 - 23,22 - 30,1kg,N/A
+2024-05-11,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-11,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-11,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-11,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-11,Gujarat,Colocasia Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-11,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-11,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-11,Gujarat,Corn,30,35 - 38,36 - 50,1kg,N/A
+2024-05-11,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-11,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-11,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-11,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-11,Gujarat,Brinjal,25,29 - 32,30 - 41,1kg,N/A
+2024-05-11,Gujarat,Brinjal (Big),20,23 - 25,24 - 33,1kg,N/A
+2024-05-11,Gujarat,Elephant Yam,26,30 - 33,31 - 43,1kg,N/A
+2024-05-11,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-11,Gujarat,French Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-11,Gujarat,Garlic,170,196 - 216,204 - 281,1kg,N/A
+2024-05-11,Gujarat,Ginger,104,120 - 132,125 - 172,1kg,N/A
+2024-05-11,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-05-11,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-11,Gujarat,Ivy Gourd,24,28 - 30,29 - 40,1kg,N/A
+2024-05-11,Gujarat,Lemon (Lime),60,69 - 76,72 - 99,1kg,N/A
+2024-05-11,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-05-11,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-11,Gujarat,Mushroom,85,98 - 108,102 - 140,1kg,N/A
+2024-05-11,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-11,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-05-11,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-05-11,Gujarat,Radish,25,29 - 32,30 - 41,1kg,N/A
+2024-05-11,Gujarat,Ridge Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-11,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-05-11,Gujarat,Snake Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-11,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-11,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-11,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-05-12,Gujarat,Onion Big,26,30 - 33,31 - 43,1kg,N/A
+2024-05-12,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-12,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-05-12,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-12,Gujarat,Beetroot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-12,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-12,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-12,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-12,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-12,Gujarat,Ash gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-12,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-12,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-12,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-12,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-12,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-12,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-12,Gujarat,Broad Beans,34,39 - 43,41 - 56,1kg,N/A
+2024-05-12,Gujarat,Cabbage,20,23 - 25,24 - 33,1kg,N/A
+2024-05-12,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-12,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-12,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-05-12,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-12,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-12,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-12,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-12,Gujarat,Corn,29,33 - 37,35 - 48,1kg,N/A
+2024-05-12,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-12,Gujarat,Curry Leaves,25,29 - 32,30 - 41,1kg,N/A
+2024-05-12,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-12,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-12,Gujarat,Brinjal,24,28 - 30,29 - 40,1kg,N/A
+2024-05-12,Gujarat,Brinjal (Big),26,30 - 33,31 - 43,1kg,N/A
+2024-05-12,Gujarat,Elephant Yam,25,29 - 32,30 - 41,1kg,N/A
+2024-05-12,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-12,Gujarat,French Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-12,Gujarat,Garlic,168,193 - 213,202 - 277,1kg,N/A
+2024-05-12,Gujarat,Ginger,113,130 - 144,136 - 186,1kg,N/A
+2024-05-12,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-05-12,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-12,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-12,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-12,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-12,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-12,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-12,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-12,Gujarat,Ladies Finger,36,41 - 46,43 - 59,1kg,N/A
+2024-05-12,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-05-12,Gujarat,Radish,27,31 - 34,32 - 45,1kg,N/A
+2024-05-12,Gujarat,Ridge Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-12,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-12,Gujarat,Snake Gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-12,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-12,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-05-12,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-13,Gujarat,Onion Big,26,30 - 33,31 - 43,1kg,N/A
+2024-05-13,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-13,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-05-13,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-13,Gujarat,Beetroot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-13,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-13,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-13,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-13,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-13,Gujarat,Ash gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-13,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-13,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-13,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-13,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-13,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-13,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-13,Gujarat,Broad Beans,34,39 - 43,41 - 56,1kg,N/A
+2024-05-13,Gujarat,Cabbage,20,23 - 25,24 - 33,1kg,N/A
+2024-05-13,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-13,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-13,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-05-13,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-13,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-13,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-13,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-13,Gujarat,Corn,29,33 - 37,35 - 48,1kg,N/A
+2024-05-13,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-13,Gujarat,Curry Leaves,25,29 - 32,30 - 41,1kg,N/A
+2024-05-13,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-13,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-13,Gujarat,Brinjal,24,28 - 30,29 - 40,1kg,N/A
+2024-05-13,Gujarat,Brinjal (Big),26,30 - 33,31 - 43,1kg,N/A
+2024-05-13,Gujarat,Elephant Yam,25,29 - 32,30 - 41,1kg,N/A
+2024-05-13,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-13,Gujarat,French Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-13,Gujarat,Garlic,168,193 - 213,202 - 277,1kg,N/A
+2024-05-13,Gujarat,Ginger,113,130 - 144,136 - 186,1kg,N/A
+2024-05-13,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-05-13,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-13,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-13,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-13,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-13,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-13,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-13,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-13,Gujarat,Ladies Finger,36,41 - 46,43 - 59,1kg,N/A
+2024-05-13,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-05-13,Gujarat,Radish,27,31 - 34,32 - 45,1kg,N/A
+2024-05-13,Gujarat,Ridge Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-13,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-13,Gujarat,Snake Gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-13,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-13,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-05-13,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-14,Gujarat,Onion Big,26,30 - 33,31 - 43,1kg,N/A
+2024-05-14,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-14,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-05-14,Gujarat,Green Chilli,42,48 - 53,50 - 69,1kg,N/A
+2024-05-14,Gujarat,Beetroot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-14,Gujarat,Potato,31,36 - 39,37 - 51,1kg,N/A
+2024-05-14,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-14,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-14,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-14,Gujarat,Ash gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-14,Gujarat,Baby Corn,64,74 - 81,77 - 106,1kg,N/A
+2024-05-14,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-14,Gujarat,Capsicum,40,46 - 51,48 - 66,1kg,N/A
+2024-05-14,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-14,Gujarat,Bottle Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-14,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-14,Gujarat,Broad Beans,34,39 - 43,41 - 56,1kg,N/A
+2024-05-14,Gujarat,Cabbage,20,23 - 25,24 - 33,1kg,N/A
+2024-05-14,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-14,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-14,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-05-14,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-14,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-14,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-05-14,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-14,Gujarat,Corn,29,33 - 37,35 - 48,1kg,N/A
+2024-05-14,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-14,Gujarat,Curry Leaves,25,29 - 32,30 - 41,1kg,N/A
+2024-05-14,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-14,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-14,Gujarat,Brinjal,24,28 - 30,29 - 40,1kg,N/A
+2024-05-14,Gujarat,Brinjal (Big),26,30 - 33,31 - 43,1kg,N/A
+2024-05-14,Gujarat,Elephant Yam,25,29 - 32,30 - 41,1kg,N/A
+2024-05-14,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-14,Gujarat,French Beans,50,58 - 64,60 - 83,1kg,N/A
+2024-05-14,Gujarat,Garlic,168,193 - 213,202 - 277,1kg,N/A
+2024-05-14,Gujarat,Ginger,113,130 - 144,136 - 186,1kg,N/A
+2024-05-14,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-05-14,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-14,Gujarat,Ivy Gourd,25,29 - 32,30 - 41,1kg,N/A
+2024-05-14,Gujarat,Lemon (Lime),75,86 - 95,90 - 124,1kg,N/A
+2024-05-14,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-14,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-14,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-14,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-14,Gujarat,Ladies Finger,36,41 - 46,43 - 59,1kg,N/A
+2024-05-14,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-05-14,Gujarat,Radish,27,31 - 34,32 - 45,1kg,N/A
+2024-05-14,Gujarat,Ridge Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-14,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-14,Gujarat,Snake Gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-05-14,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-14,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-05-14,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-15,Gujarat,Onion Big,27,31 - 34,32 - 45,1kg,N/A
+2024-05-15,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-15,Gujarat,Tomato,23,26 - 29,28 - 38,1kg,N/A
+2024-05-15,Gujarat,Green Chilli,69,79 - 88,83 - 114,1kg,N/A
+2024-05-15,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-05-15,Gujarat,Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-15,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-15,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-15,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-15,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-05-15,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-05-15,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-15,Gujarat,Capsicum,45,52 - 57,54 - 74,1kg,N/A
+2024-05-15,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-15,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-15,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-15,Gujarat,Broad Beans,72,83 - 91,86 - 119,1kg,N/A
+2024-05-15,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-05-15,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-15,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-15,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-15,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-15,Gujarat,Colocasia Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-15,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-05-15,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-15,Gujarat,Corn,30,35 - 38,36 - 50,1kg,N/A
+2024-05-15,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-15,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-05-15,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-15,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-15,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-05-15,Gujarat,Brinjal (Big),31,36 - 39,37 - 51,1kg,N/A
+2024-05-15,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-05-15,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-15,Gujarat,French Beans,184,212 - 234,221 - 304,1kg,N/A
+2024-05-15,Gujarat,Garlic,268,308 - 340,322 - 442,1kg,N/A
+2024-05-15,Gujarat,Ginger,109,125 - 138,131 - 180,1kg,N/A
+2024-05-15,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-05-15,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-05-15,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-15,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-05-15,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-15,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-15,Gujarat,Mushroom,86,99 - 109,103 - 142,1kg,N/A
+2024-05-15,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-15,Gujarat,Ladies Finger,44,51 - 56,53 - 73,1kg,N/A
+2024-05-15,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-05-15,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-15,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-05-15,Gujarat,Shallot (Pearl Onion),35,40 - 44,42 - 58,1kg,N/A
+2024-05-15,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-15,Gujarat,Sorrel Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-15,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-05-15,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-16,Gujarat,Onion Big,27,31 - 34,32 - 45,1kg,N/A
+2024-05-16,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-16,Gujarat,Tomato,23,26 - 29,28 - 38,1kg,N/A
+2024-05-16,Gujarat,Green Chilli,69,79 - 88,83 - 114,1kg,N/A
+2024-05-16,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-05-16,Gujarat,Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-16,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-16,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-16,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-16,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-05-16,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-05-16,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-16,Gujarat,Capsicum,45,52 - 57,54 - 74,1kg,N/A
+2024-05-16,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-16,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-16,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-16,Gujarat,Broad Beans,72,83 - 91,86 - 119,1kg,N/A
+2024-05-16,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-05-16,Gujarat,Carrot,46,53 - 58,55 - 76,1kg,N/A
+2024-05-16,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-16,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-16,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-16,Gujarat,Colocasia Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-16,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-05-16,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-16,Gujarat,Corn,30,35 - 38,36 - 50,1kg,N/A
+2024-05-16,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-16,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-05-16,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-16,Gujarat,Drumsticks,50,58 - 64,60 - 83,1kg,N/A
+2024-05-16,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-05-16,Gujarat,Brinjal (Big),31,36 - 39,37 - 51,1kg,N/A
+2024-05-16,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-05-16,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-16,Gujarat,French Beans,184,212 - 234,221 - 304,1kg,N/A
+2024-05-16,Gujarat,Garlic,268,308 - 340,322 - 442,1kg,N/A
+2024-05-16,Gujarat,Ginger,109,125 - 138,131 - 180,1kg,N/A
+2024-05-16,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-05-16,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-05-16,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-16,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-05-16,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-16,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-16,Gujarat,Mushroom,86,99 - 109,103 - 142,1kg,N/A
+2024-05-16,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-16,Gujarat,Ladies Finger,44,51 - 56,53 - 73,1kg,N/A
+2024-05-16,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-05-16,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-16,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-05-16,Gujarat,Shallot (Pearl Onion),35,40 - 44,42 - 58,1kg,N/A
+2024-05-16,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-16,Gujarat,Sorrel Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-16,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-05-16,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-17,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-17,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-17,Gujarat,Tomato,20,23 - 25,24 - 33,1kg,N/A
+2024-05-17,Gujarat,Green Chilli,61,70 - 77,73 - 101,1kg,N/A
+2024-05-17,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-05-17,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-17,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-17,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-17,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-05-17,Gujarat,Baby Corn,46,53 - 58,55 - 76,1kg,N/A
+2024-05-17,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-17,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-17,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-17,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-17,Gujarat,Broad Beans,67,77 - 85,80 - 111,1kg,N/A
+2024-05-17,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-05-17,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-17,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-17,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-17,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-17,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-17,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-17,Gujarat,Corn,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-17,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-17,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-17,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-17,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-17,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-17,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-17,Gujarat,French Beans,175,201 - 222,210 - 289,1kg,N/A
+2024-05-17,Gujarat,Garlic,256,294 - 325,307 - 422,1kg,N/A
+2024-05-17,Gujarat,Ginger,120,138 - 152,144 - 198,1kg,N/A
+2024-05-17,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-05-17,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-17,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-17,Gujarat,Lemon (Lime),106,122 - 135,127 - 175,1kg,N/A
+2024-05-17,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-17,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-17,Gujarat,Mushroom,82,94 - 104,98 - 135,1kg,N/A
+2024-05-17,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-17,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-05-17,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-17,Gujarat,Radish,31,36 - 39,37 - 51,1kg,N/A
+2024-05-17,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-17,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-17,Gujarat,Snake Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-17,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-17,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-17,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-18,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-18,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-18,Gujarat,Tomato,20,23 - 25,24 - 33,1kg,N/A
+2024-05-18,Gujarat,Green Chilli,61,70 - 77,73 - 101,1kg,N/A
+2024-05-18,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-05-18,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-18,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-18,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-18,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-05-18,Gujarat,Baby Corn,46,53 - 58,55 - 76,1kg,N/A
+2024-05-18,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-18,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-18,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-18,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-18,Gujarat,Broad Beans,67,77 - 85,80 - 111,1kg,N/A
+2024-05-18,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-05-18,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-18,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-18,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-18,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-18,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-18,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-18,Gujarat,Corn,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-18,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-18,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-18,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-18,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-18,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-18,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-18,Gujarat,French Beans,175,201 - 222,210 - 289,1kg,N/A
+2024-05-18,Gujarat,Garlic,256,294 - 325,307 - 422,1kg,N/A
+2024-05-18,Gujarat,Ginger,120,138 - 152,144 - 198,1kg,N/A
+2024-05-18,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-05-18,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-18,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-18,Gujarat,Lemon (Lime),106,122 - 135,127 - 175,1kg,N/A
+2024-05-18,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-18,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-18,Gujarat,Mushroom,82,94 - 104,98 - 135,1kg,N/A
+2024-05-18,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-18,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-05-18,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-18,Gujarat,Radish,31,36 - 39,37 - 51,1kg,N/A
+2024-05-18,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-18,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-18,Gujarat,Snake Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-18,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-18,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-18,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-19,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-19,Gujarat,Onion Small,32,37 - 41,38 - 53,1kg,N/A
+2024-05-19,Gujarat,Tomato,20,23 - 25,24 - 33,1kg,N/A
+2024-05-19,Gujarat,Green Chilli,61,70 - 77,73 - 101,1kg,N/A
+2024-05-19,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-05-19,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-05-19,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-19,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-19,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-05-19,Gujarat,Baby Corn,46,53 - 58,55 - 76,1kg,N/A
+2024-05-19,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-19,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-19,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-19,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-19,Gujarat,Broad Beans,67,77 - 85,80 - 111,1kg,N/A
+2024-05-19,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-05-19,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-19,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-19,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-19,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-19,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-19,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-19,Gujarat,Corn,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-19,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-19,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-19,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-19,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-19,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-19,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-19,Gujarat,French Beans,175,201 - 222,210 - 289,1kg,N/A
+2024-05-19,Gujarat,Garlic,256,294 - 325,307 - 422,1kg,N/A
+2024-05-19,Gujarat,Ginger,120,138 - 152,144 - 198,1kg,N/A
+2024-05-19,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-05-19,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-19,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-05-19,Gujarat,Lemon (Lime),106,122 - 135,127 - 175,1kg,N/A
+2024-05-19,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-19,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-19,Gujarat,Mushroom,82,94 - 104,98 - 135,1kg,N/A
+2024-05-19,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-19,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-05-19,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-19,Gujarat,Radish,31,36 - 39,37 - 51,1kg,N/A
+2024-05-19,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-19,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-19,Gujarat,Snake Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-19,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-19,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-19,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-20,Gujarat,Onion Big,25,29 - 32,30 - 41,1kg,N/A
+2024-05-20,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-20,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-20,Gujarat,Green Chilli,63,72 - 80,76 - 104,1kg,N/A
+2024-05-20,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-20,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-20,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-05-20,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-20,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-20,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-05-20,Gujarat,Baby Corn,57,66 - 72,68 - 94,1kg,N/A
+2024-05-20,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-20,Gujarat,Capsicum,50,58 - 64,60 - 83,1kg,N/A
+2024-05-20,Gujarat,Bitter Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-20,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-20,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-20,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-05-20,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-20,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-20,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-20,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-20,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-20,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-20,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-20,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-20,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-05-20,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-20,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-20,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-20,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-20,Gujarat,Brinjal,35,40 - 44,42 - 58,1kg,N/A
+2024-05-20,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-20,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-20,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-20,Gujarat,French Beans,169,194 - 215,203 - 279,1kg,N/A
+2024-05-20,Gujarat,Garlic,262,301 - 333,314 - 432,1kg,N/A
+2024-05-20,Gujarat,Ginger,138,159 - 175,166 - 228,1kg,N/A
+2024-05-20,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-05-20,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-20,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-20,Gujarat,Lemon (Lime),95,109 - 121,114 - 157,1kg,N/A
+2024-05-20,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-20,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-20,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-05-20,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-20,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-05-20,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-20,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-20,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-20,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-05-20,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-20,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-20,Gujarat,Spinach,15,17 - 19,18 - 25,1kg,N/A
+2024-05-20,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-21,Gujarat,Onion Big,25,29 - 32,30 - 41,1kg,N/A
+2024-05-21,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-21,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-21,Gujarat,Green Chilli,63,72 - 80,76 - 104,1kg,N/A
+2024-05-21,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-21,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-21,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-05-21,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-21,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-21,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-05-21,Gujarat,Baby Corn,57,66 - 72,68 - 94,1kg,N/A
+2024-05-21,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-21,Gujarat,Capsicum,50,58 - 64,60 - 83,1kg,N/A
+2024-05-21,Gujarat,Bitter Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-21,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-21,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-05-21,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-05-21,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-21,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-21,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-05-21,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-21,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-21,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-21,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-21,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-05-21,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-05-21,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-05-21,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-21,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-21,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-21,Gujarat,Brinjal,35,40 - 44,42 - 58,1kg,N/A
+2024-05-21,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-21,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-21,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-21,Gujarat,French Beans,169,194 - 215,203 - 279,1kg,N/A
+2024-05-21,Gujarat,Garlic,262,301 - 333,314 - 432,1kg,N/A
+2024-05-21,Gujarat,Ginger,138,159 - 175,166 - 228,1kg,N/A
+2024-05-21,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-05-21,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-05-21,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-05-21,Gujarat,Lemon (Lime),95,109 - 121,114 - 157,1kg,N/A
+2024-05-21,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-05-21,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-21,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-05-21,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-21,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-05-21,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-21,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-21,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-21,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-05-21,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-21,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-21,Gujarat,Spinach,15,17 - 19,18 - 25,1kg,N/A
+2024-05-21,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-05-22,Gujarat,Onion Big,25,29 - 32,30 - 41,1kg,N/A
+2024-05-22,Gujarat,Onion Small,37,43 - 47,44 - 61,1kg,N/A
+2024-05-22,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-22,Gujarat,Green Chilli,65,75 - 83,78 - 107,1kg,N/A
+2024-05-22,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-22,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-05-22,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-22,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-22,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-22,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-05-22,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-05-22,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-22,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-22,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-05-22,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-22,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-05-22,Gujarat,Broad Beans,69,79 - 88,83 - 114,1kg,N/A
+2024-05-22,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-22,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-22,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-22,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-22,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-22,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-22,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-22,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-22,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-05-22,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-22,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-05-22,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-22,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-05-22,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-05-22,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-22,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-05-22,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-22,Gujarat,French Beans,178,205 - 226,214 - 294,1kg,N/A
+2024-05-22,Gujarat,Garlic,279,321 - 354,335 - 460,1kg,N/A
+2024-05-22,Gujarat,Ginger,139,160 - 177,167 - 229,1kg,N/A
+2024-05-22,Gujarat,Onion Green,42,48 - 53,50 - 69,1kg,N/A
+2024-05-22,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-05-22,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-22,Gujarat,Lemon (Lime),107,123 - 136,128 - 177,1kg,N/A
+2024-05-22,Gujarat,Mango Raw,29,33 - 37,35 - 48,1kg,N/A
+2024-05-22,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-22,Gujarat,Mushroom,94,108 - 119,113 - 155,1kg,N/A
+2024-05-22,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-22,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-05-22,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-22,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-05-22,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-22,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-05-22,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-05-22,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-22,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-22,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-23,Gujarat,Onion Big,25,29 - 32,30 - 41,1kg,N/A
+2024-05-23,Gujarat,Onion Small,37,43 - 47,44 - 61,1kg,N/A
+2024-05-23,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-23,Gujarat,Green Chilli,65,75 - 83,78 - 107,1kg,N/A
+2024-05-23,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-23,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-05-23,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-23,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-23,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-23,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-05-23,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-05-23,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-05-23,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-23,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-05-23,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-23,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-05-23,Gujarat,Broad Beans,69,79 - 88,83 - 114,1kg,N/A
+2024-05-23,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-23,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-05-23,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-23,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-05-23,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-05-23,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-23,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-23,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-23,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-05-23,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-23,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-05-23,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-23,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-05-23,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-05-23,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-05-23,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-05-23,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-23,Gujarat,French Beans,178,205 - 226,214 - 294,1kg,N/A
+2024-05-23,Gujarat,Garlic,279,321 - 354,335 - 460,1kg,N/A
+2024-05-23,Gujarat,Ginger,139,160 - 177,167 - 229,1kg,N/A
+2024-05-23,Gujarat,Onion Green,42,48 - 53,50 - 69,1kg,N/A
+2024-05-23,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-05-23,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-23,Gujarat,Lemon (Lime),107,123 - 136,128 - 177,1kg,N/A
+2024-05-23,Gujarat,Mango Raw,29,33 - 37,35 - 48,1kg,N/A
+2024-05-23,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-23,Gujarat,Mushroom,94,108 - 119,113 - 155,1kg,N/A
+2024-05-23,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-23,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-05-23,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-05-23,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-05-23,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-23,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-05-23,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-05-23,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-23,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-23,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-24,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-24,Gujarat,Onion Small,36,41 - 46,43 - 59,1kg,N/A
+2024-05-24,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-24,Gujarat,Green Chilli,66,76 - 84,79 - 109,1kg,N/A
+2024-05-24,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-24,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-05-24,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-05-24,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-24,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-24,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-24,Gujarat,Baby Corn,54,62 - 69,65 - 89,1kg,N/A
+2024-05-24,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-24,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-24,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-24,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-24,Gujarat,Butter Beans,52,60 - 66,62 - 86,1kg,N/A
+2024-05-24,Gujarat,Broad Beans,62,71 - 79,74 - 102,1kg,N/A
+2024-05-24,Gujarat,Cabbage,28,32 - 36,34 - 46,1kg,N/A
+2024-05-24,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-24,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-24,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-05-24,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-24,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-24,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-24,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-24,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-05-24,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-24,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-24,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-24,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-05-24,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-05-24,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-05-24,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-05-24,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-24,Gujarat,French Beans,173,199 - 220,208 - 285,1kg,N/A
+2024-05-24,Gujarat,Garlic,270,311 - 343,324 - 446,1kg,N/A
+2024-05-24,Gujarat,Ginger,124,143 - 157,149 - 205,1kg,N/A
+2024-05-24,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-05-24,Gujarat,Green Peas,44,51 - 56,53 - 73,1kg,N/A
+2024-05-24,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-24,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-05-24,Gujarat,Mango Raw,29,33 - 37,35 - 48,1kg,N/A
+2024-05-24,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-24,Gujarat,Mushroom,72,83 - 91,86 - 119,1kg,N/A
+2024-05-24,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-24,Gujarat,Ladies Finger,44,51 - 56,53 - 73,1kg,N/A
+2024-05-24,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-24,Gujarat,Radish,32,37 - 41,38 - 53,1kg,N/A
+2024-05-24,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-24,Gujarat,Shallot (Pearl Onion),37,43 - 47,44 - 61,1kg,N/A
+2024-05-24,Gujarat,Snake Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-05-24,Gujarat,Sorrel Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-24,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-24,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-25,Gujarat,Onion Big,24,28 - 30,29 - 40,1kg,N/A
+2024-05-25,Gujarat,Onion Small,36,41 - 46,43 - 59,1kg,N/A
+2024-05-25,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-25,Gujarat,Green Chilli,66,76 - 84,79 - 109,1kg,N/A
+2024-05-25,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-25,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-05-25,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-05-25,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-25,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-25,Gujarat,Ash gourd,19,22 - 24,23 - 31,1kg,N/A
+2024-05-25,Gujarat,Baby Corn,54,62 - 69,65 - 89,1kg,N/A
+2024-05-25,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-05-25,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-05-25,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-25,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-25,Gujarat,Butter Beans,52,60 - 66,62 - 86,1kg,N/A
+2024-05-25,Gujarat,Broad Beans,62,71 - 79,74 - 102,1kg,N/A
+2024-05-25,Gujarat,Cabbage,28,32 - 36,34 - 46,1kg,N/A
+2024-05-25,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-25,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-25,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-05-25,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-25,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-25,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-25,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-25,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-05-25,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-25,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-25,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-25,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-05-25,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-05-25,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-05-25,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-05-25,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-25,Gujarat,French Beans,173,199 - 220,208 - 285,1kg,N/A
+2024-05-25,Gujarat,Garlic,270,311 - 343,324 - 446,1kg,N/A
+2024-05-25,Gujarat,Ginger,124,143 - 157,149 - 205,1kg,N/A
+2024-05-25,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-05-25,Gujarat,Green Peas,44,51 - 56,53 - 73,1kg,N/A
+2024-05-25,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-25,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-05-25,Gujarat,Mango Raw,29,33 - 37,35 - 48,1kg,N/A
+2024-05-25,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-25,Gujarat,Mushroom,72,83 - 91,86 - 119,1kg,N/A
+2024-05-25,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-25,Gujarat,Ladies Finger,44,51 - 56,53 - 73,1kg,N/A
+2024-05-25,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-25,Gujarat,Radish,32,37 - 41,38 - 53,1kg,N/A
+2024-05-25,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-25,Gujarat,Shallot (Pearl Onion),37,43 - 47,44 - 61,1kg,N/A
+2024-05-25,Gujarat,Snake Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-05-25,Gujarat,Sorrel Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-25,Gujarat,Spinach,13,15 - 17,16 - 21,1kg,N/A
+2024-05-25,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-26,Gujarat,Onion Big,30,35 - 38,36 - 50,1kg,N/A
+2024-05-26,Gujarat,Onion Small,37,43 - 47,44 - 61,1kg,N/A
+2024-05-26,Gujarat,Tomato,23,26 - 29,28 - 38,1kg,N/A
+2024-05-26,Gujarat,Green Chilli,62,71 - 79,74 - 102,1kg,N/A
+2024-05-26,Gujarat,Beetroot,35,40 - 44,42 - 58,1kg,N/A
+2024-05-26,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-05-26,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-26,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-05-26,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-26,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-05-26,Gujarat,Baby Corn,59,68 - 75,71 - 97,1kg,N/A
+2024-05-26,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-26,Gujarat,Capsicum,50,58 - 64,60 - 83,1kg,N/A
+2024-05-26,Gujarat,Bitter Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-26,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-05-26,Gujarat,Butter Beans,49,56 - 62,59 - 81,1kg,N/A
+2024-05-26,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-05-26,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-05-26,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-05-26,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-05-26,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-05-26,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-05-26,Gujarat,Colocasia Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-26,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-05-26,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-05-26,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-05-26,Gujarat,Cucumber,26,30 - 33,31 - 43,1kg,N/A
+2024-05-26,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-05-26,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-26,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-26,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-05-26,Gujarat,Brinjal (Big),32,37 - 41,38 - 53,1kg,N/A
+2024-05-26,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-05-26,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-26,Gujarat,French Beans,182,209 - 231,218 - 300,1kg,N/A
+2024-05-26,Gujarat,Garlic,269,309 - 342,323 - 444,1kg,N/A
+2024-05-26,Gujarat,Ginger,140,161 - 178,168 - 231,1kg,N/A
+2024-05-26,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-05-26,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-05-26,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-26,Gujarat,Lemon (Lime),96,110 - 122,115 - 158,1kg,N/A
+2024-05-26,Gujarat,Mango Raw,29,33 - 37,35 - 48,1kg,N/A
+2024-05-26,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-05-26,Gujarat,Mushroom,77,89 - 98,92 - 127,1kg,N/A
+2024-05-26,Gujarat,Mustard Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-26,Gujarat,Ladies Finger,43,49 - 55,52 - 71,1kg,N/A
+2024-05-26,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-05-26,Gujarat,Radish,36,41 - 46,43 - 59,1kg,N/A
+2024-05-26,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-26,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-26,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-05-26,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-26,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-05-26,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-27,Gujarat,Onion Big,30,35 - 38,36 - 50,1kg,N/A
+2024-05-27,Gujarat,Onion Small,38,44 - 48,46 - 63,1kg,N/A
+2024-05-27,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-27,Gujarat,Green Chilli,69,79 - 88,83 - 114,1kg,N/A
+2024-05-27,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-27,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-05-27,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-27,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-27,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-27,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-05-27,Gujarat,Baby Corn,58,67 - 74,70 - 96,1kg,N/A
+2024-05-27,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-27,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-27,Gujarat,Bitter Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-27,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-27,Gujarat,Butter Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-27,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-05-27,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-05-27,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-05-27,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-27,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-27,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-27,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-27,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-27,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-05-27,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-05-27,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-27,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-27,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-27,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-27,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-27,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-05-27,Gujarat,Elephant Yam,34,39 - 43,41 - 56,1kg,N/A
+2024-05-27,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-27,Gujarat,French Beans,170,196 - 216,204 - 281,1kg,N/A
+2024-05-27,Gujarat,Garlic,267,307 - 339,320 - 441,1kg,N/A
+2024-05-27,Gujarat,Ginger,130,150 - 165,156 - 215,1kg,N/A
+2024-05-27,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-05-27,Gujarat,Green Peas,41,47 - 52,49 - 68,1kg,N/A
+2024-05-27,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-27,Gujarat,Lemon (Lime),109,125 - 138,131 - 180,1kg,N/A
+2024-05-27,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-05-27,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-27,Gujarat,Mushroom,72,83 - 91,86 - 119,1kg,N/A
+2024-05-27,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-27,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-05-27,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-27,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-05-27,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-27,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-27,Gujarat,Snake Gourd,37,43 - 47,44 - 61,1kg,N/A
+2024-05-27,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-27,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-27,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-28,Gujarat,Onion Big,30,35 - 38,36 - 50,1kg,N/A
+2024-05-28,Gujarat,Onion Small,38,44 - 48,46 - 63,1kg,N/A
+2024-05-28,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-05-28,Gujarat,Green Chilli,69,79 - 88,83 - 114,1kg,N/A
+2024-05-28,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-05-28,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-05-28,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-28,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-05-28,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-05-28,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-05-28,Gujarat,Baby Corn,58,67 - 74,70 - 96,1kg,N/A
+2024-05-28,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-28,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-05-28,Gujarat,Bitter Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-28,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-05-28,Gujarat,Butter Beans,55,63 - 70,66 - 91,1kg,N/A
+2024-05-28,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-05-28,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-05-28,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-05-28,Gujarat,Cauliflower,25,29 - 32,30 - 41,1kg,N/A
+2024-05-28,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-28,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-05-28,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-28,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-28,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-05-28,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-05-28,Gujarat,Cucumber,24,28 - 30,29 - 40,1kg,N/A
+2024-05-28,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-05-28,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-28,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-28,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-28,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-05-28,Gujarat,Elephant Yam,34,39 - 43,41 - 56,1kg,N/A
+2024-05-28,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-28,Gujarat,French Beans,170,196 - 216,204 - 281,1kg,N/A
+2024-05-28,Gujarat,Garlic,267,307 - 339,320 - 441,1kg,N/A
+2024-05-28,Gujarat,Ginger,130,150 - 165,156 - 215,1kg,N/A
+2024-05-28,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-05-28,Gujarat,Green Peas,41,47 - 52,49 - 68,1kg,N/A
+2024-05-28,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-05-28,Gujarat,Lemon (Lime),109,125 - 138,131 - 180,1kg,N/A
+2024-05-28,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-05-28,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-28,Gujarat,Mushroom,72,83 - 91,86 - 119,1kg,N/A
+2024-05-28,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-05-28,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-05-28,Gujarat,Pumpkin,19,22 - 24,23 - 31,1kg,N/A
+2024-05-28,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-05-28,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-28,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-28,Gujarat,Snake Gourd,37,43 - 47,44 - 61,1kg,N/A
+2024-05-28,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-05-28,Gujarat,Spinach,16,18 - 20,19 - 26,1kg,N/A
+2024-05-28,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-05-29,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-05-29,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-29,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-29,Gujarat,Green Chilli,70,81 - 89,84 - 116,1kg,N/A
+2024-05-29,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-29,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-29,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-29,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-29,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-29,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-05-29,Gujarat,Baby Corn,50,58 - 64,60 - 83,1kg,N/A
+2024-05-29,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-29,Gujarat,Capsicum,44,51 - 56,53 - 73,1kg,N/A
+2024-05-29,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-29,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-29,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-05-29,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-05-29,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-29,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-29,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-29,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-29,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-05-29,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-29,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-29,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-05-29,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-05-29,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-05-29,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-29,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-29,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-29,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-29,Gujarat,Brinjal (Big),32,37 - 41,38 - 53,1kg,N/A
+2024-05-29,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-29,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-29,Gujarat,French Beans,179,206 - 227,215 - 295,1kg,N/A
+2024-05-29,Gujarat,Garlic,270,311 - 343,324 - 446,1kg,N/A
+2024-05-29,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-05-29,Gujarat,Onion Green,43,49 - 55,52 - 71,1kg,N/A
+2024-05-29,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-29,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-29,Gujarat,Lemon (Lime),95,109 - 121,114 - 157,1kg,N/A
+2024-05-29,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-29,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-29,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-29,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-29,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-05-29,Gujarat,Pumpkin,17,20 - 22,20 - 28,1kg,N/A
+2024-05-29,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-29,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-29,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-29,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-05-29,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-29,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-05-29,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-30,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-05-30,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-30,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-30,Gujarat,Green Chilli,70,81 - 89,84 - 116,1kg,N/A
+2024-05-30,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-30,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-30,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-30,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-30,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-30,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-05-30,Gujarat,Baby Corn,50,58 - 64,60 - 83,1kg,N/A
+2024-05-30,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-30,Gujarat,Capsicum,44,51 - 56,53 - 73,1kg,N/A
+2024-05-30,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-30,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-30,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-05-30,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-05-30,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-30,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-30,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-30,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-30,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-05-30,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-30,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-30,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-05-30,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-05-30,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-05-30,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-30,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-30,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-30,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-30,Gujarat,Brinjal (Big),32,37 - 41,38 - 53,1kg,N/A
+2024-05-30,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-30,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-30,Gujarat,French Beans,179,206 - 227,215 - 295,1kg,N/A
+2024-05-30,Gujarat,Garlic,270,311 - 343,324 - 446,1kg,N/A
+2024-05-30,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-05-30,Gujarat,Onion Green,43,49 - 55,52 - 71,1kg,N/A
+2024-05-30,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-30,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-30,Gujarat,Lemon (Lime),95,109 - 121,114 - 157,1kg,N/A
+2024-05-30,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-30,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-30,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-30,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-30,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-05-30,Gujarat,Pumpkin,17,20 - 22,20 - 28,1kg,N/A
+2024-05-30,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-30,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-30,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-30,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-05-30,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-30,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-05-30,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-05-31,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-05-31,Gujarat,Onion Small,33,38 - 42,40 - 54,1kg,N/A
+2024-05-31,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-05-31,Gujarat,Green Chilli,70,81 - 89,84 - 116,1kg,N/A
+2024-05-31,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-05-31,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-05-31,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-05-31,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-31,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-05-31,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-05-31,Gujarat,Baby Corn,50,58 - 64,60 - 83,1kg,N/A
+2024-05-31,Gujarat,Banana Flower,17,20 - 22,20 - 28,1kg,N/A
+2024-05-31,Gujarat,Capsicum,44,51 - 56,53 - 73,1kg,N/A
+2024-05-31,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-05-31,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-05-31,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-05-31,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-05-31,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-05-31,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-05-31,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-05-31,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-05-31,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-05-31,Gujarat,Colocasia Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-05-31,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-05-31,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-05-31,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-05-31,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-05-31,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-05-31,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-05-31,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-05-31,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-05-31,Gujarat,Brinjal (Big),32,37 - 41,38 - 53,1kg,N/A
+2024-05-31,Gujarat,Elephant Yam,35,40 - 44,42 - 58,1kg,N/A
+2024-05-31,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-05-31,Gujarat,French Beans,179,206 - 227,215 - 295,1kg,N/A
+2024-05-31,Gujarat,Garlic,270,311 - 343,324 - 446,1kg,N/A
+2024-05-31,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-05-31,Gujarat,Onion Green,43,49 - 55,52 - 71,1kg,N/A
+2024-05-31,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-05-31,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-05-31,Gujarat,Lemon (Lime),95,109 - 121,114 - 157,1kg,N/A
+2024-05-31,Gujarat,Mango Raw,26,30 - 33,31 - 43,1kg,N/A
+2024-05-31,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-05-31,Gujarat,Mushroom,93,107 - 118,112 - 153,1kg,N/A
+2024-05-31,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-05-31,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-05-31,Gujarat,Pumpkin,17,20 - 22,20 - 28,1kg,N/A
+2024-05-31,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-05-31,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-05-31,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-05-31,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-05-31,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-05-31,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-05-31,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-01,Gujarat,Onion Big,30,35 - 38,36 - 50,1kg,N/A
+2024-06-01,Gujarat,Onion Small,35,40 - 44,42 - 58,1kg,N/A
+2024-06-01,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-06-01,Gujarat,Green Chilli,91,105 - 116,109 - 150,1kg,N/A
+2024-06-01,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-01,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-01,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-01,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-01,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-01,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-01,Gujarat,Baby Corn,55,63 - 70,66 - 91,1kg,N/A
+2024-06-01,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-01,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-01,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-01,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-01,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-01,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-06-01,Gujarat,Cabbage,30,35 - 38,36 - 50,1kg,N/A
+2024-06-01,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-06-01,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-01,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-01,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-01,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-01,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-06-01,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-06-01,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-01,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-01,Gujarat,Curry Leaves,27,31 - 34,32 - 45,1kg,N/A
+2024-06-01,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-01,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-01,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-01,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-06-01,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-01,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-01,Gujarat,French Beans,169,194 - 215,203 - 279,1kg,N/A
+2024-06-01,Gujarat,Garlic,262,301 - 333,314 - 432,1kg,N/A
+2024-06-01,Gujarat,Ginger,126,145 - 160,151 - 208,1kg,N/A
+2024-06-01,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-06-01,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-06-01,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-01,Gujarat,Lemon (Lime),108,124 - 137,130 - 178,1kg,N/A
+2024-06-01,Gujarat,Mango Raw,28,32 - 36,34 - 46,1kg,N/A
+2024-06-01,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-01,Gujarat,Mushroom,85,98 - 108,102 - 140,1kg,N/A
+2024-06-01,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-06-01,Gujarat,Ladies Finger,48,55 - 61,58 - 79,1kg,N/A
+2024-06-01,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-06-01,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-01,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-01,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-06-01,Gujarat,Snake Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-01,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-01,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-01,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Onion Big,30,35 - 38,36 - 50,1kg,N/A
+2024-06-02,Gujarat,Onion Small,35,40 - 44,42 - 58,1kg,N/A
+2024-06-02,Gujarat,Tomato,24,28 - 30,29 - 40,1kg,N/A
+2024-06-02,Gujarat,Green Chilli,91,105 - 116,109 - 150,1kg,N/A
+2024-06-02,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-02,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-02,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-02,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-02,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-02,Gujarat,Baby Corn,55,63 - 70,66 - 91,1kg,N/A
+2024-06-02,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-02,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-02,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-02,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-02,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-02,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-06-02,Gujarat,Cabbage,30,35 - 38,36 - 50,1kg,N/A
+2024-06-02,Gujarat,Carrot,40,46 - 51,48 - 66,1kg,N/A
+2024-06-02,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-02,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-02,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-02,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-02,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-06-02,Gujarat,Coriander Leaves,6,7 - 8,7 - 10,1kg,N/A
+2024-06-02,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-02,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-02,Gujarat,Curry Leaves,27,31 - 34,32 - 45,1kg,N/A
+2024-06-02,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-02,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-02,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-02,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-02,Gujarat,French Beans,169,194 - 215,203 - 279,1kg,N/A
+2024-06-02,Gujarat,Garlic,262,301 - 333,314 - 432,1kg,N/A
+2024-06-02,Gujarat,Ginger,126,145 - 160,151 - 208,1kg,N/A
+2024-06-02,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-06-02,Gujarat,Green Peas,46,53 - 58,55 - 76,1kg,N/A
+2024-06-02,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-02,Gujarat,Lemon (Lime),108,124 - 137,130 - 178,1kg,N/A
+2024-06-02,Gujarat,Mango Raw,28,32 - 36,34 - 46,1kg,N/A
+2024-06-02,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-02,Gujarat,Mushroom,85,98 - 108,102 - 140,1kg,N/A
+2024-06-02,Gujarat,Mustard Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-06-02,Gujarat,Ladies Finger,48,55 - 61,58 - 79,1kg,N/A
+2024-06-02,Gujarat,Pumpkin,20,23 - 25,24 - 33,1kg,N/A
+2024-06-02,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-02,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-02,Gujarat,Shallot (Pearl Onion),36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Snake Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-02,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-02,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-02,Gujarat,Sweet Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-03,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-06-03,Gujarat,Onion Small,35,40 - 44,42 - 58,1kg,N/A
+2024-06-03,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-06-03,Gujarat,Green Chilli,81,93 - 103,97 - 134,1kg,N/A
+2024-06-03,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-06-03,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-03,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-03,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-03,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-03,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-06-03,Gujarat,Baby Corn,58,67 - 74,70 - 96,1kg,N/A
+2024-06-03,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-06-03,Gujarat,Capsicum,48,55 - 61,58 - 79,1kg,N/A
+2024-06-03,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-03,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-03,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-03,Gujarat,Broad Beans,62,71 - 79,74 - 102,1kg,N/A
+2024-06-03,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-06-03,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-03,Gujarat,Cauliflower,27,31 - 34,32 - 45,1kg,N/A
+2024-06-03,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-03,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-03,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-03,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-06-03,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-03,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-03,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-03,Gujarat,Curry Leaves,27,31 - 34,32 - 45,1kg,N/A
+2024-06-03,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-06-03,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-03,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-03,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-06-03,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-03,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-03,Gujarat,French Beans,165,190 - 210,198 - 272,1kg,N/A
+2024-06-03,Gujarat,Garlic,272,313 - 345,326 - 449,1kg,N/A
+2024-06-03,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-06-03,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-06-03,Gujarat,Green Peas,44,51 - 56,53 - 73,1kg,N/A
+2024-06-03,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-03,Gujarat,Lemon (Lime),105,121 - 133,126 - 173,1kg,N/A
+2024-06-03,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-03,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-03,Gujarat,Mushroom,75,86 - 95,90 - 124,1kg,N/A
+2024-06-03,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-03,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-03,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-03,Gujarat,Radish,32,37 - 41,38 - 53,1kg,N/A
+2024-06-03,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-03,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-06-03,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-03,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-03,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-03,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-04,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-06-04,Gujarat,Onion Small,35,40 - 44,42 - 58,1kg,N/A
+2024-06-04,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-06-04,Gujarat,Green Chilli,81,93 - 103,97 - 134,1kg,N/A
+2024-06-04,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-06-04,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-04,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-04,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-04,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-04,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-06-04,Gujarat,Baby Corn,58,67 - 74,70 - 96,1kg,N/A
+2024-06-04,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-06-04,Gujarat,Capsicum,48,55 - 61,58 - 79,1kg,N/A
+2024-06-04,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-04,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-04,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-04,Gujarat,Broad Beans,62,71 - 79,74 - 102,1kg,N/A
+2024-06-04,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-06-04,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-04,Gujarat,Cauliflower,27,31 - 34,32 - 45,1kg,N/A
+2024-06-04,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-04,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-04,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-04,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-06-04,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-04,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-04,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-04,Gujarat,Curry Leaves,27,31 - 34,32 - 45,1kg,N/A
+2024-06-04,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-06-04,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-04,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-04,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-06-04,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-04,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-04,Gujarat,French Beans,165,190 - 210,198 - 272,1kg,N/A
+2024-06-04,Gujarat,Garlic,272,313 - 345,326 - 449,1kg,N/A
+2024-06-04,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-06-04,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-06-04,Gujarat,Green Peas,44,51 - 56,53 - 73,1kg,N/A
+2024-06-04,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-04,Gujarat,Lemon (Lime),105,121 - 133,126 - 173,1kg,N/A
+2024-06-04,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-04,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-04,Gujarat,Mushroom,75,86 - 95,90 - 124,1kg,N/A
+2024-06-04,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-04,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-04,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-04,Gujarat,Radish,32,37 - 41,38 - 53,1kg,N/A
+2024-06-04,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-04,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-06-04,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-04,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-04,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-04,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-05,Gujarat,Onion Big,34,39 - 43,41 - 56,1kg,N/A
+2024-06-05,Gujarat,Onion Small,35,40 - 44,42 - 58,1kg,N/A
+2024-06-05,Gujarat,Tomato,25,29 - 32,30 - 41,1kg,N/A
+2024-06-05,Gujarat,Green Chilli,81,93 - 103,97 - 134,1kg,N/A
+2024-06-05,Gujarat,Beetroot,37,43 - 47,44 - 61,1kg,N/A
+2024-06-05,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-05,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-05,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-05,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-05,Gujarat,Ash gourd,21,24 - 27,25 - 35,1kg,N/A
+2024-06-05,Gujarat,Baby Corn,58,67 - 74,70 - 96,1kg,N/A
+2024-06-05,Gujarat,Banana Flower,19,22 - 24,23 - 31,1kg,N/A
+2024-06-05,Gujarat,Capsicum,48,55 - 61,58 - 79,1kg,N/A
+2024-06-05,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-05,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-05,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-05,Gujarat,Broad Beans,62,71 - 79,74 - 102,1kg,N/A
+2024-06-05,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-06-05,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-05,Gujarat,Cauliflower,27,31 - 34,32 - 45,1kg,N/A
+2024-06-05,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-05,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-05,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-05,Gujarat,Colocasia,29,33 - 37,35 - 48,1kg,N/A
+2024-06-05,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-05,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-05,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-05,Gujarat,Curry Leaves,27,31 - 34,32 - 45,1kg,N/A
+2024-06-05,Gujarat,Dill Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-06-05,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-05,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-05,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-06-05,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-05,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-05,Gujarat,French Beans,165,190 - 210,198 - 272,1kg,N/A
+2024-06-05,Gujarat,Garlic,272,313 - 345,326 - 449,1kg,N/A
+2024-06-05,Gujarat,Ginger,122,140 - 155,146 - 201,1kg,N/A
+2024-06-05,Gujarat,Onion Green,41,47 - 52,49 - 68,1kg,N/A
+2024-06-05,Gujarat,Green Peas,44,51 - 56,53 - 73,1kg,N/A
+2024-06-05,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-05,Gujarat,Lemon (Lime),105,121 - 133,126 - 173,1kg,N/A
+2024-06-05,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-05,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-05,Gujarat,Mushroom,75,86 - 95,90 - 124,1kg,N/A
+2024-06-05,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-05,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-05,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-05,Gujarat,Radish,32,37 - 41,38 - 53,1kg,N/A
+2024-06-05,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-05,Gujarat,Shallot (Pearl Onion),30,35 - 38,36 - 50,1kg,N/A
+2024-06-05,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-05,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-05,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-05,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-06,Gujarat,Onion Big,31,36 - 39,37 - 51,1kg,N/A
+2024-06-06,Gujarat,Onion Small,34,39 - 43,41 - 56,1kg,N/A
+2024-06-06,Gujarat,Tomato,31,36 - 39,37 - 51,1kg,N/A
+2024-06-06,Gujarat,Green Chilli,85,98 - 108,102 - 140,1kg,N/A
+2024-06-06,Gujarat,Beetroot,35,40 - 44,42 - 58,1kg,N/A
+2024-06-06,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-06-06,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-06,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-06,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-06,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-06,Gujarat,Baby Corn,46,53 - 58,55 - 76,1kg,N/A
+2024-06-06,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-06,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-06,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-06,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-06,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-06,Gujarat,Broad Beans,66,76 - 84,79 - 109,1kg,N/A
+2024-06-06,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-06-06,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-06,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-06,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-06-06,Gujarat,Coconut,38,44 - 48,46 - 63,1kg,N/A
+2024-06-06,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-06,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-06,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-06,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-06-06,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-06,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-06,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-06,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-06-06,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-06,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-06,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-06,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-06,Gujarat,French Beans,92,106 - 117,110 - 152,1kg,N/A
+2024-06-06,Gujarat,Garlic,194,223 - 246,233 - 320,1kg,N/A
+2024-06-06,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-06,Gujarat,Onion Green,42,48 - 53,50 - 69,1kg,N/A
+2024-06-06,Gujarat,Green Peas,41,47 - 52,49 - 68,1kg,N/A
+2024-06-06,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-06,Gujarat,Lemon (Lime),80,92 - 102,96 - 132,1kg,N/A
+2024-06-06,Gujarat,Mango Raw,34,39 - 43,41 - 56,1kg,N/A
+2024-06-06,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-06,Gujarat,Mushroom,74,85 - 94,89 - 122,1kg,N/A
+2024-06-06,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-06,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-06,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-06,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-06,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-06,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-06,Gujarat,Snake Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-06,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-06,Gujarat,Spinach,15,17 - 19,18 - 25,1kg,N/A
+2024-06-06,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-07,Gujarat,Onion Big,31,36 - 39,37 - 51,1kg,N/A
+2024-06-07,Gujarat,Onion Small,34,39 - 43,41 - 56,1kg,N/A
+2024-06-07,Gujarat,Tomato,31,36 - 39,37 - 51,1kg,N/A
+2024-06-07,Gujarat,Green Chilli,85,98 - 108,102 - 140,1kg,N/A
+2024-06-07,Gujarat,Beetroot,35,40 - 44,42 - 58,1kg,N/A
+2024-06-07,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-06-07,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-07,Gujarat,Amaranth Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-07,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-07,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-07,Gujarat,Baby Corn,46,53 - 58,55 - 76,1kg,N/A
+2024-06-07,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-07,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-07,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-07,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-07,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-07,Gujarat,Broad Beans,66,76 - 84,79 - 109,1kg,N/A
+2024-06-07,Gujarat,Cabbage,32,37 - 41,38 - 53,1kg,N/A
+2024-06-07,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-07,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-07,Gujarat,Cluster beans,42,48 - 53,50 - 69,1kg,N/A
+2024-06-07,Gujarat,Coconut,38,44 - 48,46 - 63,1kg,N/A
+2024-06-07,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-07,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-07,Gujarat,Coriander Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-07,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-06-07,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-07,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-07,Gujarat,Dill Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-07,Gujarat,Drumsticks,30,35 - 38,36 - 50,1kg,N/A
+2024-06-07,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-07,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-07,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-07,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-07,Gujarat,French Beans,92,106 - 117,110 - 152,1kg,N/A
+2024-06-07,Gujarat,Garlic,194,223 - 246,233 - 320,1kg,N/A
+2024-06-07,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-07,Gujarat,Onion Green,42,48 - 53,50 - 69,1kg,N/A
+2024-06-07,Gujarat,Green Peas,41,47 - 52,49 - 68,1kg,N/A
+2024-06-07,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-07,Gujarat,Lemon (Lime),80,92 - 102,96 - 132,1kg,N/A
+2024-06-07,Gujarat,Mango Raw,34,39 - 43,41 - 56,1kg,N/A
+2024-06-07,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-07,Gujarat,Mushroom,74,85 - 94,89 - 122,1kg,N/A
+2024-06-07,Gujarat,Mustard Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-07,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-07,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-07,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-07,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-07,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-07,Gujarat,Snake Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-07,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-07,Gujarat,Spinach,15,17 - 19,18 - 25,1kg,N/A
+2024-06-07,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-08,Gujarat,Onion Big,33,38 - 42,40 - 54,1kg,N/A
+2024-06-08,Gujarat,Onion Small,34,39 - 43,41 - 56,1kg,N/A
+2024-06-08,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-06-08,Gujarat,Green Chilli,95,109 - 121,114 - 157,1kg,N/A
+2024-06-08,Gujarat,Beetroot,34,39 - 43,41 - 56,1kg,N/A
+2024-06-08,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-06-08,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-08,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-08,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-08,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-08,Gujarat,Baby Corn,51,59 - 65,61 - 84,1kg,N/A
+2024-06-08,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-08,Gujarat,Capsicum,49,56 - 62,59 - 81,1kg,N/A
+2024-06-08,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-08,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-08,Gujarat,Butter Beans,52,60 - 66,62 - 86,1kg,N/A
+2024-06-08,Gujarat,Broad Beans,72,83 - 91,86 - 119,1kg,N/A
+2024-06-08,Gujarat,Cabbage,30,35 - 38,36 - 50,1kg,N/A
+2024-06-08,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-08,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-08,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-08,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-08,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-08,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-06-08,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-06-08,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-08,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-08,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-08,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-08,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-08,Gujarat,Brinjal,35,40 - 44,42 - 58,1kg,N/A
+2024-06-08,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-06-08,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-08,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-08,Gujarat,French Beans,90,104 - 114,108 - 149,1kg,N/A
+2024-06-08,Gujarat,Garlic,186,214 - 236,223 - 307,1kg,N/A
+2024-06-08,Gujarat,Ginger,125,144 - 159,150 - 206,1kg,N/A
+2024-06-08,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-08,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-06-08,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-08,Gujarat,Lemon (Lime),88,101 - 112,106 - 145,1kg,N/A
+2024-06-08,Gujarat,Mango Raw,33,38 - 42,40 - 54,1kg,N/A
+2024-06-08,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-08,Gujarat,Mushroom,90,104 - 114,108 - 149,1kg,N/A
+2024-06-08,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-08,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-08,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-08,Gujarat,Radish,37,43 - 47,44 - 61,1kg,N/A
+2024-06-08,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-08,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-08,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-08,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-06-08,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-08,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-09,Gujarat,Onion Big,33,38 - 42,40 - 54,1kg,N/A
+2024-06-09,Gujarat,Onion Small,34,39 - 43,41 - 56,1kg,N/A
+2024-06-09,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-06-09,Gujarat,Green Chilli,95,109 - 121,114 - 157,1kg,N/A
+2024-06-09,Gujarat,Beetroot,34,39 - 43,41 - 56,1kg,N/A
+2024-06-09,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-06-09,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-09,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-09,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-09,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-09,Gujarat,Baby Corn,51,59 - 65,61 - 84,1kg,N/A
+2024-06-09,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-09,Gujarat,Capsicum,49,56 - 62,59 - 81,1kg,N/A
+2024-06-09,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-09,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-09,Gujarat,Butter Beans,52,60 - 66,62 - 86,1kg,N/A
+2024-06-09,Gujarat,Broad Beans,72,83 - 91,86 - 119,1kg,N/A
+2024-06-09,Gujarat,Cabbage,30,35 - 38,36 - 50,1kg,N/A
+2024-06-09,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-09,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-09,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-09,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-09,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-09,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-06-09,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-06-09,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-09,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-09,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-09,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-09,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-09,Gujarat,Brinjal,35,40 - 44,42 - 58,1kg,N/A
+2024-06-09,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-06-09,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-09,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-09,Gujarat,French Beans,90,104 - 114,108 - 149,1kg,N/A
+2024-06-09,Gujarat,Garlic,186,214 - 236,223 - 307,1kg,N/A
+2024-06-09,Gujarat,Ginger,125,144 - 159,150 - 206,1kg,N/A
+2024-06-09,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-09,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-06-09,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-09,Gujarat,Lemon (Lime),88,101 - 112,106 - 145,1kg,N/A
+2024-06-09,Gujarat,Mango Raw,33,38 - 42,40 - 54,1kg,N/A
+2024-06-09,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-09,Gujarat,Mushroom,90,104 - 114,108 - 149,1kg,N/A
+2024-06-09,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-09,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-09,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-09,Gujarat,Radish,37,43 - 47,44 - 61,1kg,N/A
+2024-06-09,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-09,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-09,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-09,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-06-09,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-09,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-10,Gujarat,Onion Big,33,38 - 42,40 - 54,1kg,N/A
+2024-06-10,Gujarat,Onion Small,34,39 - 43,41 - 56,1kg,N/A
+2024-06-10,Gujarat,Tomato,27,31 - 34,32 - 45,1kg,N/A
+2024-06-10,Gujarat,Green Chilli,95,109 - 121,114 - 157,1kg,N/A
+2024-06-10,Gujarat,Beetroot,34,39 - 43,41 - 56,1kg,N/A
+2024-06-10,Gujarat,Potato,34,39 - 43,41 - 56,1kg,N/A
+2024-06-10,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-10,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-10,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-10,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-10,Gujarat,Baby Corn,51,59 - 65,61 - 84,1kg,N/A
+2024-06-10,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-10,Gujarat,Capsicum,49,56 - 62,59 - 81,1kg,N/A
+2024-06-10,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-10,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-10,Gujarat,Butter Beans,52,60 - 66,62 - 86,1kg,N/A
+2024-06-10,Gujarat,Broad Beans,72,83 - 91,86 - 119,1kg,N/A
+2024-06-10,Gujarat,Cabbage,30,35 - 38,36 - 50,1kg,N/A
+2024-06-10,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-10,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-10,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-10,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-10,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-10,Gujarat,Colocasia,28,32 - 36,34 - 46,1kg,N/A
+2024-06-10,Gujarat,Coriander Leaves,7,8 - 9,8 - 12,1kg,N/A
+2024-06-10,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-10,Gujarat,Cucumber,25,29 - 32,30 - 41,1kg,N/A
+2024-06-10,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-10,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-10,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-10,Gujarat,Brinjal,35,40 - 44,42 - 58,1kg,N/A
+2024-06-10,Gujarat,Brinjal (Big),34,39 - 43,41 - 56,1kg,N/A
+2024-06-10,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-10,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-10,Gujarat,French Beans,90,104 - 114,108 - 149,1kg,N/A
+2024-06-10,Gujarat,Garlic,186,214 - 236,223 - 307,1kg,N/A
+2024-06-10,Gujarat,Ginger,125,144 - 159,150 - 206,1kg,N/A
+2024-06-10,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-10,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-06-10,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-10,Gujarat,Lemon (Lime),88,101 - 112,106 - 145,1kg,N/A
+2024-06-10,Gujarat,Mango Raw,33,38 - 42,40 - 54,1kg,N/A
+2024-06-10,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-10,Gujarat,Mushroom,90,104 - 114,108 - 149,1kg,N/A
+2024-06-10,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-10,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-10,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-10,Gujarat,Radish,37,43 - 47,44 - 61,1kg,N/A
+2024-06-10,Gujarat,Ridge Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-10,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-10,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-10,Gujarat,Sorrel Leaves,16,18 - 20,19 - 26,1kg,N/A
+2024-06-10,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-10,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-11,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-11,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-11,Gujarat,Tomato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-11,Gujarat,Green Chilli,88,101 - 112,106 - 145,1kg,N/A
+2024-06-11,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-11,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-06-11,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-11,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-06-11,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-11,Gujarat,Ash gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-06-11,Gujarat,Baby Corn,50,58 - 64,60 - 83,1kg,N/A
+2024-06-11,Gujarat,Banana Flower,20,23 - 25,24 - 33,1kg,N/A
+2024-06-11,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-11,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-11,Gujarat,Bottle Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-11,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-11,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-06-11,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-11,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-11,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-11,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-11,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-11,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-11,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-11,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-11,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-11,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-11,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-06-11,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-11,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-11,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-06-11,Gujarat,Brinjal (Big),31,36 - 39,37 - 51,1kg,N/A
+2024-06-11,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-11,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-11,Gujarat,French Beans,174,200 - 221,209 - 287,1kg,N/A
+2024-06-11,Gujarat,Garlic,250,288 - 318,300 - 413,1kg,N/A
+2024-06-11,Gujarat,Ginger,135,155 - 171,162 - 223,1kg,N/A
+2024-06-11,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-11,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-06-11,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-11,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-11,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-06-11,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-11,Gujarat,Mushroom,74,85 - 94,89 - 122,1kg,N/A
+2024-06-11,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-11,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-11,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-11,Gujarat,Radish,34,39 - 43,41 - 56,1kg,N/A
+2024-06-11,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-11,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-11,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-11,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-11,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-06-11,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-12,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-12,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-12,Gujarat,Tomato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-12,Gujarat,Green Chilli,88,101 - 112,106 - 145,1kg,N/A
+2024-06-12,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-12,Gujarat,Potato,35,40 - 44,42 - 58,1kg,N/A
+2024-06-12,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-12,Gujarat,Amaranth Leaves,13,15 - 17,16 - 21,1kg,N/A
+2024-06-12,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-12,Gujarat,Ash gourd,23,26 - 29,28 - 38,1kg,N/A
+2024-06-12,Gujarat,Baby Corn,50,58 - 64,60 - 83,1kg,N/A
+2024-06-12,Gujarat,Banana Flower,20,23 - 25,24 - 33,1kg,N/A
+2024-06-12,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-12,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-12,Gujarat,Bottle Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-12,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-12,Gujarat,Broad Beans,64,74 - 81,77 - 106,1kg,N/A
+2024-06-12,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-12,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-12,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-12,Gujarat,Cluster beans,40,46 - 51,48 - 66,1kg,N/A
+2024-06-12,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-12,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-12,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-12,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-12,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-12,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-12,Gujarat,Curry Leaves,30,35 - 38,36 - 50,1kg,N/A
+2024-06-12,Gujarat,Dill Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-12,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-12,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-06-12,Gujarat,Brinjal (Big),31,36 - 39,37 - 51,1kg,N/A
+2024-06-12,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-12,Gujarat,Fenugreek Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-12,Gujarat,French Beans,174,200 - 221,209 - 287,1kg,N/A
+2024-06-12,Gujarat,Garlic,250,288 - 318,300 - 413,1kg,N/A
+2024-06-12,Gujarat,Ginger,135,155 - 171,162 - 223,1kg,N/A
+2024-06-12,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-12,Gujarat,Green Peas,47,54 - 60,56 - 78,1kg,N/A
+2024-06-12,Gujarat,Ivy Gourd,29,33 - 37,35 - 48,1kg,N/A
+2024-06-12,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-12,Gujarat,Mango Raw,27,31 - 34,32 - 45,1kg,N/A
+2024-06-12,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-12,Gujarat,Mushroom,74,85 - 94,89 - 122,1kg,N/A
+2024-06-12,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-12,Gujarat,Ladies Finger,46,53 - 58,55 - 76,1kg,N/A
+2024-06-12,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-12,Gujarat,Radish,34,39 - 43,41 - 56,1kg,N/A
+2024-06-12,Gujarat,Ridge Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-12,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-12,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-12,Gujarat,Sorrel Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-12,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-06-12,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-13,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-13,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-13,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-13,Gujarat,Green Chilli,94,108 - 119,113 - 155,1kg,N/A
+2024-06-13,Gujarat,Beetroot,36,41 - 46,43 - 59,1kg,N/A
+2024-06-13,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-06-13,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-13,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-13,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-13,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-13,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-13,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-13,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-13,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-13,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-13,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-13,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-13,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-13,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-13,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-13,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-13,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-13,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-13,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-13,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-13,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-13,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-13,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-13,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-13,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-13,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-13,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-13,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-13,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-13,Gujarat,French Beans,183,210 - 232,220 - 302,1kg,N/A
+2024-06-13,Gujarat,Garlic,269,309 - 342,323 - 444,1kg,N/A
+2024-06-13,Gujarat,Ginger,123,141 - 156,148 - 203,1kg,N/A
+2024-06-13,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-13,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-13,Gujarat,Ivy Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-13,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-13,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-13,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-13,Gujarat,Mushroom,84,97 - 107,101 - 139,1kg,N/A
+2024-06-13,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-13,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-06-13,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-13,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-13,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-13,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-13,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-13,Gujarat,Sorrel Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-13,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-13,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-14,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-14,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-14,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-14,Gujarat,Green Chilli,94,108 - 119,113 - 155,1kg,N/A
+2024-06-14,Gujarat,Beetroot,36,41 - 46,43 - 59,1kg,N/A
+2024-06-14,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-06-14,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-14,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-14,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-14,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-14,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-14,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-14,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-14,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-14,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-14,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-14,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-14,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-14,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-14,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-14,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-14,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-14,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-14,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-14,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-14,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-14,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-14,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-14,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-14,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-14,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-14,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-14,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-14,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-14,Gujarat,French Beans,183,210 - 232,220 - 302,1kg,N/A
+2024-06-14,Gujarat,Garlic,269,309 - 342,323 - 444,1kg,N/A
+2024-06-14,Gujarat,Ginger,123,141 - 156,148 - 203,1kg,N/A
+2024-06-14,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-14,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-14,Gujarat,Ivy Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-14,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-14,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-14,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-14,Gujarat,Mushroom,84,97 - 107,101 - 139,1kg,N/A
+2024-06-14,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-14,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-06-14,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-14,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-14,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-14,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-14,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-14,Gujarat,Sorrel Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-14,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-14,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-15,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-15,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-15,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-15,Gujarat,Green Chilli,94,108 - 119,113 - 155,1kg,N/A
+2024-06-15,Gujarat,Beetroot,36,41 - 46,43 - 59,1kg,N/A
+2024-06-15,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-06-15,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-15,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-15,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-15,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-15,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-15,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-15,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-15,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-15,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-15,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-15,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-15,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-15,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-15,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-15,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-15,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-15,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-15,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-15,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-15,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-15,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-15,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-15,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-15,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-15,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-15,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-15,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-15,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-15,Gujarat,French Beans,183,210 - 232,220 - 302,1kg,N/A
+2024-06-15,Gujarat,Garlic,269,309 - 342,323 - 444,1kg,N/A
+2024-06-15,Gujarat,Ginger,123,141 - 156,148 - 203,1kg,N/A
+2024-06-15,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-15,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-15,Gujarat,Ivy Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-15,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-15,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-15,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-15,Gujarat,Mushroom,84,97 - 107,101 - 139,1kg,N/A
+2024-06-15,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-15,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-06-15,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-15,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-15,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-15,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-15,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-15,Gujarat,Sorrel Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-15,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-15,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-16,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-16,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-16,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-16,Gujarat,Green Chilli,94,108 - 119,113 - 155,1kg,N/A
+2024-06-16,Gujarat,Beetroot,36,41 - 46,43 - 59,1kg,N/A
+2024-06-16,Gujarat,Potato,33,38 - 42,40 - 54,1kg,N/A
+2024-06-16,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-16,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-16,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-16,Gujarat,Ash gourd,20,23 - 25,24 - 33,1kg,N/A
+2024-06-16,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-16,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-16,Gujarat,Capsicum,43,49 - 55,52 - 71,1kg,N/A
+2024-06-16,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-16,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-16,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-16,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-16,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-16,Gujarat,Carrot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-16,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-16,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-16,Gujarat,Coconut,35,40 - 44,42 - 58,1kg,N/A
+2024-06-16,Gujarat,Colocasia Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-16,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-16,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-16,Gujarat,Corn,31,36 - 39,37 - 51,1kg,N/A
+2024-06-16,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-16,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-16,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-16,Gujarat,Drumsticks,40,46 - 51,48 - 66,1kg,N/A
+2024-06-16,Gujarat,Brinjal,32,37 - 41,38 - 53,1kg,N/A
+2024-06-16,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-16,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-16,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-16,Gujarat,French Beans,183,210 - 232,220 - 302,1kg,N/A
+2024-06-16,Gujarat,Garlic,269,309 - 342,323 - 444,1kg,N/A
+2024-06-16,Gujarat,Ginger,123,141 - 156,148 - 203,1kg,N/A
+2024-06-16,Gujarat,Onion Green,45,52 - 57,54 - 74,1kg,N/A
+2024-06-16,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-16,Gujarat,Ivy Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-16,Gujarat,Lemon (Lime),99,114 - 126,119 - 163,1kg,N/A
+2024-06-16,Gujarat,Mango Raw,30,35 - 38,36 - 50,1kg,N/A
+2024-06-16,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-16,Gujarat,Mushroom,84,97 - 107,101 - 139,1kg,N/A
+2024-06-16,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-16,Gujarat,Ladies Finger,41,47 - 52,49 - 68,1kg,N/A
+2024-06-16,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-16,Gujarat,Radish,35,40 - 44,42 - 58,1kg,N/A
+2024-06-16,Gujarat,Ridge Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-16,Gujarat,Shallot (Pearl Onion),31,36 - 39,37 - 51,1kg,N/A
+2024-06-16,Gujarat,Snake Gourd,38,44 - 48,46 - 63,1kg,N/A
+2024-06-16,Gujarat,Sorrel Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-16,Gujarat,Spinach,14,16 - 18,17 - 23,1kg,N/A
+2024-06-16,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-17,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-17,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-17,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-17,Gujarat,Green Chilli,62,71 - 79,74 - 102,1kg,N/A
+2024-06-17,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-17,Gujarat,Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-17,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-17,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-17,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-17,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-17,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-17,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-17,Gujarat,Capsicum,46,53 - 58,55 - 76,1kg,N/A
+2024-06-17,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-17,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-17,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-17,Gujarat,Broad Beans,75,86 - 95,90 - 124,1kg,N/A
+2024-06-17,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-17,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-17,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-06-17,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-06-17,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-17,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-17,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-17,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-17,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-17,Gujarat,Cucumber,30,35 - 38,36 - 50,1kg,N/A
+2024-06-17,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-06-17,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-17,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-17,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-17,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-17,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-17,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-17,Gujarat,French Beans,118,136 - 150,142 - 195,1kg,N/A
+2024-06-17,Gujarat,Garlic,243,279 - 309,292 - 401,1kg,N/A
+2024-06-17,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-17,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-06-17,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-06-17,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-06-17,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-06-17,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-17,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-17,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-06-17,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-17,Gujarat,Ladies Finger,43,49 - 55,52 - 71,1kg,N/A
+2024-06-17,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-17,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-17,Gujarat,Ridge Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-17,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-17,Gujarat,Snake Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-17,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-17,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-17,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-18,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-18,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-18,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-18,Gujarat,Green Chilli,62,71 - 79,74 - 102,1kg,N/A
+2024-06-18,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-18,Gujarat,Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-18,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-18,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-18,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-18,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-18,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-18,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-18,Gujarat,Capsicum,46,53 - 58,55 - 76,1kg,N/A
+2024-06-18,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-18,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-18,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-18,Gujarat,Broad Beans,75,86 - 95,90 - 124,1kg,N/A
+2024-06-18,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-18,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-18,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-06-18,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-06-18,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-18,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-18,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-18,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-18,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-18,Gujarat,Cucumber,30,35 - 38,36 - 50,1kg,N/A
+2024-06-18,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-06-18,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-18,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-18,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-18,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-18,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-18,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-18,Gujarat,French Beans,118,136 - 150,142 - 195,1kg,N/A
+2024-06-18,Gujarat,Garlic,243,279 - 309,292 - 401,1kg,N/A
+2024-06-18,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-18,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-06-18,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-06-18,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-06-18,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-06-18,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-18,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-18,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-06-18,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-18,Gujarat,Ladies Finger,43,49 - 55,52 - 71,1kg,N/A
+2024-06-18,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-18,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-18,Gujarat,Ridge Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-18,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-18,Gujarat,Snake Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-18,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-18,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-18,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-19,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-19,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-19,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-19,Gujarat,Green Chilli,62,71 - 79,74 - 102,1kg,N/A
+2024-06-19,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-19,Gujarat,Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-19,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-19,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-19,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-19,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-19,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-19,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-19,Gujarat,Capsicum,46,53 - 58,55 - 76,1kg,N/A
+2024-06-19,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-19,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-19,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-19,Gujarat,Broad Beans,75,86 - 95,90 - 124,1kg,N/A
+2024-06-19,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-19,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-19,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-06-19,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-06-19,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-19,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-19,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-19,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-19,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-19,Gujarat,Cucumber,30,35 - 38,36 - 50,1kg,N/A
+2024-06-19,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-06-19,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-19,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-19,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-19,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-19,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-19,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-19,Gujarat,French Beans,118,136 - 150,142 - 195,1kg,N/A
+2024-06-19,Gujarat,Garlic,243,279 - 309,292 - 401,1kg,N/A
+2024-06-19,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-19,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-06-19,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-06-19,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-06-19,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-06-19,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-19,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-19,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-06-19,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-19,Gujarat,Ladies Finger,43,49 - 55,52 - 71,1kg,N/A
+2024-06-19,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-19,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-19,Gujarat,Ridge Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-19,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-19,Gujarat,Snake Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-19,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-19,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-19,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-20,Gujarat,Onion Big,38,44 - 48,46 - 63,1kg,N/A
+2024-06-20,Gujarat,Onion Small,55,63 - 70,66 - 91,1kg,N/A
+2024-06-20,Gujarat,Tomato,41,47 - 52,49 - 68,1kg,N/A
+2024-06-20,Gujarat,Green Chilli,62,71 - 79,74 - 102,1kg,N/A
+2024-06-20,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-20,Gujarat,Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-20,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-20,Gujarat,Amaranth Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-20,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-20,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-20,Gujarat,Baby Corn,48,55 - 61,58 - 79,1kg,N/A
+2024-06-20,Gujarat,Banana Flower,15,17 - 19,18 - 25,1kg,N/A
+2024-06-20,Gujarat,Capsicum,46,53 - 58,55 - 76,1kg,N/A
+2024-06-20,Gujarat,Bitter Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-20,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-20,Gujarat,Butter Beans,51,59 - 65,61 - 84,1kg,N/A
+2024-06-20,Gujarat,Broad Beans,75,86 - 95,90 - 124,1kg,N/A
+2024-06-20,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-20,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-20,Gujarat,Cauliflower,24,28 - 30,29 - 40,1kg,N/A
+2024-06-20,Gujarat,Cluster beans,44,51 - 56,53 - 73,1kg,N/A
+2024-06-20,Gujarat,Coconut,34,39 - 43,41 - 56,1kg,N/A
+2024-06-20,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-20,Gujarat,Colocasia,25,29 - 32,30 - 41,1kg,N/A
+2024-06-20,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-20,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-20,Gujarat,Cucumber,30,35 - 38,36 - 50,1kg,N/A
+2024-06-20,Gujarat,Curry Leaves,29,33 - 37,35 - 48,1kg,N/A
+2024-06-20,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-20,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-20,Gujarat,Brinjal,37,43 - 47,44 - 61,1kg,N/A
+2024-06-20,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-20,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-20,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-20,Gujarat,French Beans,118,136 - 150,142 - 195,1kg,N/A
+2024-06-20,Gujarat,Garlic,243,279 - 309,292 - 401,1kg,N/A
+2024-06-20,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-20,Gujarat,Onion Green,39,45 - 50,47 - 64,1kg,N/A
+2024-06-20,Gujarat,Green Peas,49,56 - 62,59 - 81,1kg,N/A
+2024-06-20,Gujarat,Ivy Gourd,27,31 - 34,32 - 45,1kg,N/A
+2024-06-20,Gujarat,Lemon (Lime),92,106 - 117,110 - 152,1kg,N/A
+2024-06-20,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-20,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-20,Gujarat,Mushroom,95,109 - 121,114 - 157,1kg,N/A
+2024-06-20,Gujarat,Mustard Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-20,Gujarat,Ladies Finger,43,49 - 55,52 - 71,1kg,N/A
+2024-06-20,Gujarat,Pumpkin,22,25 - 28,26 - 36,1kg,N/A
+2024-06-20,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-20,Gujarat,Ridge Gourd,36,41 - 46,43 - 59,1kg,N/A
+2024-06-20,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-20,Gujarat,Snake Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-20,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-20,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-20,Gujarat,Sweet Potato,38,44 - 48,46 - 63,1kg,N/A
+2024-06-21,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-21,Gujarat,Onion Small,54,62 - 69,65 - 89,1kg,N/A
+2024-06-21,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-21,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-21,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-21,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-21,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-21,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-21,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-21,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-21,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-21,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-21,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-21,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-21,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-21,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-21,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-06-21,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-21,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-21,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-21,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-21,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-21,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-21,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-21,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-21,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-21,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-21,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-21,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-21,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-21,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-21,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-21,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-21,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-21,Gujarat,French Beans,114,131 - 145,137 - 188,1kg,N/A
+2024-06-21,Gujarat,Garlic,245,282 - 311,294 - 404,1kg,N/A
+2024-06-21,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-21,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-21,Gujarat,Green Peas,50,58 - 64,60 - 83,1kg,N/A
+2024-06-21,Gujarat,Ivy Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-21,Gujarat,Lemon (Lime),98,113 - 124,118 - 162,1kg,N/A
+2024-06-21,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-21,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-21,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-21,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-21,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-06-21,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-21,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-21,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-21,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-06-21,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-21,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-21,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-21,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-22,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-22,Gujarat,Onion Small,54,62 - 69,65 - 89,1kg,N/A
+2024-06-22,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-22,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-22,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-22,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-22,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-22,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-22,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-22,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-22,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-22,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-22,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-22,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-22,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-22,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-22,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-06-22,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-22,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-22,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-22,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-22,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-22,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-22,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-22,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-22,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-22,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-22,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-22,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-22,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-22,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-22,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-22,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-22,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-22,Gujarat,French Beans,114,131 - 145,137 - 188,1kg,N/A
+2024-06-22,Gujarat,Garlic,245,282 - 311,294 - 404,1kg,N/A
+2024-06-22,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-22,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-22,Gujarat,Green Peas,50,58 - 64,60 - 83,1kg,N/A
+2024-06-22,Gujarat,Ivy Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-22,Gujarat,Lemon (Lime),98,113 - 124,118 - 162,1kg,N/A
+2024-06-22,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-22,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-22,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-22,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-22,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-06-22,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-22,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-22,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-22,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-06-22,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-22,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-22,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-22,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-23,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-23,Gujarat,Onion Small,54,62 - 69,65 - 89,1kg,N/A
+2024-06-23,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-23,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-23,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-23,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-23,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-23,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-23,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-23,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-23,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-23,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-23,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-23,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-23,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-23,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-23,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-06-23,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-23,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-23,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-23,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-23,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-23,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-23,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-23,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-23,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-23,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-23,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-23,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-23,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-23,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-23,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-23,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-23,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-23,Gujarat,French Beans,114,131 - 145,137 - 188,1kg,N/A
+2024-06-23,Gujarat,Garlic,245,282 - 311,294 - 404,1kg,N/A
+2024-06-23,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-23,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-23,Gujarat,Green Peas,50,58 - 64,60 - 83,1kg,N/A
+2024-06-23,Gujarat,Ivy Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-23,Gujarat,Lemon (Lime),98,113 - 124,118 - 162,1kg,N/A
+2024-06-23,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-23,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-23,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-23,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-23,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-06-23,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-23,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-23,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-23,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-06-23,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-23,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-23,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-23,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-24,Gujarat,Onion Big,37,43 - 47,44 - 61,1kg,N/A
+2024-06-24,Gujarat,Onion Small,54,62 - 69,65 - 89,1kg,N/A
+2024-06-24,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-24,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-24,Gujarat,Beetroot,39,45 - 50,47 - 64,1kg,N/A
+2024-06-24,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-24,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-24,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-24,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-24,Gujarat,Ash gourd,16,18 - 20,19 - 26,1kg,N/A
+2024-06-24,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-24,Gujarat,Banana Flower,18,21 - 23,22 - 30,1kg,N/A
+2024-06-24,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-24,Gujarat,Bitter Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-24,Gujarat,Bottle Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-24,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-24,Gujarat,Broad Beans,63,72 - 80,76 - 104,1kg,N/A
+2024-06-24,Gujarat,Cabbage,29,33 - 37,35 - 48,1kg,N/A
+2024-06-24,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-24,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-24,Gujarat,Cluster beans,41,47 - 52,49 - 68,1kg,N/A
+2024-06-24,Gujarat,Coconut,37,43 - 47,44 - 61,1kg,N/A
+2024-06-24,Gujarat,Colocasia Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-24,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-24,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-24,Gujarat,Corn,33,38 - 42,40 - 54,1kg,N/A
+2024-06-24,Gujarat,Cucumber,28,32 - 36,34 - 46,1kg,N/A
+2024-06-24,Gujarat,Curry Leaves,28,32 - 36,34 - 46,1kg,N/A
+2024-06-24,Gujarat,Dill Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-24,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-24,Gujarat,Brinjal,36,41 - 46,43 - 59,1kg,N/A
+2024-06-24,Gujarat,Brinjal (Big),30,35 - 38,36 - 50,1kg,N/A
+2024-06-24,Gujarat,Elephant Yam,39,45 - 50,47 - 64,1kg,N/A
+2024-06-24,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-24,Gujarat,French Beans,114,131 - 145,137 - 188,1kg,N/A
+2024-06-24,Gujarat,Garlic,245,282 - 311,294 - 404,1kg,N/A
+2024-06-24,Gujarat,Ginger,133,153 - 169,160 - 219,1kg,N/A
+2024-06-24,Gujarat,Onion Green,46,53 - 58,55 - 76,1kg,N/A
+2024-06-24,Gujarat,Green Peas,50,58 - 64,60 - 83,1kg,N/A
+2024-06-24,Gujarat,Ivy Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-24,Gujarat,Lemon (Lime),98,113 - 124,118 - 162,1kg,N/A
+2024-06-24,Gujarat,Mango Raw,40,46 - 51,48 - 66,1kg,N/A
+2024-06-24,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-24,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-24,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-24,Gujarat,Ladies Finger,40,46 - 51,48 - 66,1kg,N/A
+2024-06-24,Gujarat,Pumpkin,21,24 - 27,25 - 35,1kg,N/A
+2024-06-24,Gujarat,Radish,33,38 - 42,40 - 54,1kg,N/A
+2024-06-24,Gujarat,Ridge Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-24,Gujarat,Shallot (Pearl Onion),32,37 - 41,38 - 53,1kg,N/A
+2024-06-24,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-24,Gujarat,Sorrel Leaves,17,20 - 22,20 - 28,1kg,N/A
+2024-06-24,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-24,Gujarat,Sweet Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-25,Gujarat,Onion Big,42,48 - 53,50 - 69,1kg,N/A
+2024-06-25,Gujarat,Onion Small,61,70 - 77,73 - 101,1kg,N/A
+2024-06-25,Gujarat,Tomato,51,59 - 65,61 - 84,1kg,N/A
+2024-06-25,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-25,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-25,Gujarat,Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-25,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-06-25,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-25,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-25,Gujarat,Ash gourd,24,28 - 30,29 - 40,1kg,N/A
+2024-06-25,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-06-25,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-25,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-25,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-25,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-25,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-25,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-25,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-06-25,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-25,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-25,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-25,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-06-25,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-25,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-25,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-25,Gujarat,Corn,35,40 - 44,42 - 58,1kg,N/A
+2024-06-25,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-25,Gujarat,Curry Leaves,25,29 - 32,30 - 41,1kg,N/A
+2024-06-25,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-25,Gujarat,Drumsticks,80,92 - 102,96 - 132,1kg,N/A
+2024-06-25,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-06-25,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-25,Gujarat,Elephant Yam,40,46 - 51,48 - 66,1kg,N/A
+2024-06-25,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-25,Gujarat,French Beans,109,125 - 138,131 - 180,1kg,N/A
+2024-06-25,Gujarat,Garlic,234,269 - 297,281 - 386,1kg,N/A
+2024-06-25,Gujarat,Ginger,129,148 - 164,155 - 213,1kg,N/A
+2024-06-25,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-06-25,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-25,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-06-25,Gujarat,Lemon (Lime),109,125 - 138,131 - 180,1kg,N/A
+2024-06-25,Gujarat,Mango Raw,39,45 - 50,47 - 64,1kg,N/A
+2024-06-25,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-25,Gujarat,Mushroom,76,87 - 97,91 - 125,1kg,N/A
+2024-06-25,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-25,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-25,Gujarat,Pumpkin,17,20 - 22,20 - 28,1kg,N/A
+2024-06-25,Gujarat,Radish,38,44 - 48,46 - 63,1kg,N/A
+2024-06-25,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-25,Gujarat,Shallot (Pearl Onion),33,38 - 42,40 - 54,1kg,N/A
+2024-06-25,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-06-25,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-25,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-25,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-26,Gujarat,Onion Big,42,48 - 53,50 - 69,1kg,N/A
+2024-06-26,Gujarat,Onion Small,61,70 - 77,73 - 101,1kg,N/A
+2024-06-26,Gujarat,Tomato,51,59 - 65,61 - 84,1kg,N/A
+2024-06-26,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-26,Gujarat,Beetroot,38,44 - 48,46 - 63,1kg,N/A
+2024-06-26,Gujarat,Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-26,Gujarat,Raw Banana (Plantain),9,10 - 11,11 - 15,1kg,N/A
+2024-06-26,Gujarat,Amaranth Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-26,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-26,Gujarat,Ash gourd,24,28 - 30,29 - 40,1kg,N/A
+2024-06-26,Gujarat,Baby Corn,61,70 - 77,73 - 101,1kg,N/A
+2024-06-26,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-26,Gujarat,Capsicum,41,47 - 52,49 - 68,1kg,N/A
+2024-06-26,Gujarat,Bitter Gourd,34,39 - 43,41 - 56,1kg,N/A
+2024-06-26,Gujarat,Bottle Gourd,31,36 - 39,37 - 51,1kg,N/A
+2024-06-26,Gujarat,Butter Beans,47,54 - 60,56 - 78,1kg,N/A
+2024-06-26,Gujarat,Broad Beans,65,75 - 83,78 - 107,1kg,N/A
+2024-06-26,Gujarat,Cabbage,31,36 - 39,37 - 51,1kg,N/A
+2024-06-26,Gujarat,Carrot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-26,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-26,Gujarat,Cluster beans,43,49 - 55,52 - 71,1kg,N/A
+2024-06-26,Gujarat,Coconut,36,41 - 46,43 - 59,1kg,N/A
+2024-06-26,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-26,Gujarat,Colocasia,27,31 - 34,32 - 45,1kg,N/A
+2024-06-26,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-26,Gujarat,Corn,35,40 - 44,42 - 58,1kg,N/A
+2024-06-26,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-26,Gujarat,Curry Leaves,25,29 - 32,30 - 41,1kg,N/A
+2024-06-26,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-26,Gujarat,Drumsticks,80,92 - 102,96 - 132,1kg,N/A
+2024-06-26,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-06-26,Gujarat,Brinjal (Big),33,38 - 42,40 - 54,1kg,N/A
+2024-06-26,Gujarat,Elephant Yam,40,46 - 51,48 - 66,1kg,N/A
+2024-06-26,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-26,Gujarat,French Beans,109,125 - 138,131 - 180,1kg,N/A
+2024-06-26,Gujarat,Garlic,234,269 - 297,281 - 386,1kg,N/A
+2024-06-26,Gujarat,Ginger,129,148 - 164,155 - 213,1kg,N/A
+2024-06-26,Gujarat,Onion Green,44,51 - 56,53 - 73,1kg,N/A
+2024-06-26,Gujarat,Green Peas,48,55 - 61,58 - 79,1kg,N/A
+2024-06-26,Gujarat,Ivy Gourd,26,30 - 33,31 - 43,1kg,N/A
+2024-06-26,Gujarat,Lemon (Lime),109,125 - 138,131 - 180,1kg,N/A
+2024-06-26,Gujarat,Mango Raw,39,45 - 50,47 - 64,1kg,N/A
+2024-06-26,Gujarat,Mint Leaves,4,5 - 5,5 - 7,1kg,N/A
+2024-06-26,Gujarat,Mushroom,76,87 - 97,91 - 125,1kg,N/A
+2024-06-26,Gujarat,Mustard Leaves,18,21 - 23,22 - 30,1kg,N/A
+2024-06-26,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-26,Gujarat,Pumpkin,17,20 - 22,20 - 28,1kg,N/A
+2024-06-26,Gujarat,Radish,38,44 - 48,46 - 63,1kg,N/A
+2024-06-26,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-26,Gujarat,Shallot (Pearl Onion),33,38 - 42,40 - 54,1kg,N/A
+2024-06-26,Gujarat,Snake Gourd,39,45 - 50,47 - 64,1kg,N/A
+2024-06-26,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-26,Gujarat,Spinach,17,20 - 22,20 - 28,1kg,N/A
+2024-06-26,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-27,Gujarat,Onion Big,47,54 - 60,56 - 78,1kg,N/A
+2024-06-27,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-27,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-27,Gujarat,Green Chilli,63,72 - 80,76 - 104,1kg,N/A
+2024-06-27,Gujarat,Beetroot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-27,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-27,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-27,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-27,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-27,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-06-27,Gujarat,Baby Corn,52,60 - 66,62 - 86,1kg,N/A
+2024-06-27,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-27,Gujarat,Capsicum,45,52 - 57,54 - 74,1kg,N/A
+2024-06-27,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-27,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-27,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-27,Gujarat,Broad Beans,74,85 - 94,89 - 122,1kg,N/A
+2024-06-27,Gujarat,Cabbage,28,32 - 36,34 - 46,1kg,N/A
+2024-06-27,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-27,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-27,Gujarat,Cluster beans,45,52 - 57,54 - 74,1kg,N/A
+2024-06-27,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-06-27,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-27,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-06-27,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-27,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-06-27,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-27,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-06-27,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-27,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-27,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-06-27,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-06-27,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-27,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-27,Gujarat,French Beans,107,123 - 136,128 - 177,1kg,N/A
+2024-06-27,Gujarat,Garlic,220,253 - 279,264 - 363,1kg,N/A
+2024-06-27,Gujarat,Ginger,126,145 - 160,151 - 208,1kg,N/A
+2024-06-27,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-06-27,Gujarat,Green Peas,45,52 - 57,54 - 74,1kg,N/A
+2024-06-27,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-06-27,Gujarat,Lemon (Lime),110,127 - 140,132 - 182,1kg,N/A
+2024-06-27,Gujarat,Mango Raw,37,43 - 47,44 - 61,1kg,N/A
+2024-06-27,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-27,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-27,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-27,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-27,Gujarat,Pumpkin,23,26 - 29,28 - 38,1kg,N/A
+2024-06-27,Gujarat,Radish,34,39 - 43,41 - 56,1kg,N/A
+2024-06-27,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-27,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-27,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-27,Gujarat,Sorrel Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-27,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-06-27,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-28,Gujarat,Onion Big,47,54 - 60,56 - 78,1kg,N/A
+2024-06-28,Gujarat,Onion Small,58,67 - 74,70 - 96,1kg,N/A
+2024-06-28,Gujarat,Tomato,46,53 - 58,55 - 76,1kg,N/A
+2024-06-28,Gujarat,Green Chilli,63,72 - 80,76 - 104,1kg,N/A
+2024-06-28,Gujarat,Beetroot,44,51 - 56,53 - 73,1kg,N/A
+2024-06-28,Gujarat,Potato,36,41 - 46,43 - 59,1kg,N/A
+2024-06-28,Gujarat,Raw Banana (Plantain),8,9 - 10,10 - 13,1kg,N/A
+2024-06-28,Gujarat,Amaranth Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-28,Gujarat,Amla,60,69 - 76,72 - 99,1kg,N/A
+2024-06-28,Gujarat,Ash gourd,17,20 - 22,20 - 28,1kg,N/A
+2024-06-28,Gujarat,Baby Corn,52,60 - 66,62 - 86,1kg,N/A
+2024-06-28,Gujarat,Banana Flower,14,16 - 18,17 - 23,1kg,N/A
+2024-06-28,Gujarat,Capsicum,45,52 - 57,54 - 74,1kg,N/A
+2024-06-28,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-28,Gujarat,Bottle Gourd,30,35 - 38,36 - 50,1kg,N/A
+2024-06-28,Gujarat,Butter Beans,54,62 - 69,65 - 89,1kg,N/A
+2024-06-28,Gujarat,Broad Beans,74,85 - 94,89 - 122,1kg,N/A
+2024-06-28,Gujarat,Cabbage,28,32 - 36,34 - 46,1kg,N/A
+2024-06-28,Gujarat,Carrot,42,48 - 53,50 - 69,1kg,N/A
+2024-06-28,Gujarat,Cauliflower,28,32 - 36,34 - 46,1kg,N/A
+2024-06-28,Gujarat,Cluster beans,45,52 - 57,54 - 74,1kg,N/A
+2024-06-28,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-06-28,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-28,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-06-28,Gujarat,Coriander Leaves,9,10 - 11,11 - 15,1kg,N/A
+2024-06-28,Gujarat,Corn,32,37 - 41,38 - 53,1kg,N/A
+2024-06-28,Gujarat,Cucumber,27,31 - 34,32 - 45,1kg,N/A
+2024-06-28,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-06-28,Gujarat,Dill Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-28,Gujarat,Drumsticks,70,81 - 89,84 - 116,1kg,N/A
+2024-06-28,Gujarat,Brinjal,33,38 - 42,40 - 54,1kg,N/A
+2024-06-28,Gujarat,Brinjal (Big),36,41 - 46,43 - 59,1kg,N/A
+2024-06-28,Gujarat,Elephant Yam,36,41 - 46,43 - 59,1kg,N/A
+2024-06-28,Gujarat,Fenugreek Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-28,Gujarat,French Beans,107,123 - 136,128 - 177,1kg,N/A
+2024-06-28,Gujarat,Garlic,220,253 - 279,264 - 363,1kg,N/A
+2024-06-28,Gujarat,Ginger,126,145 - 160,151 - 208,1kg,N/A
+2024-06-28,Gujarat,Onion Green,38,44 - 48,46 - 63,1kg,N/A
+2024-06-28,Gujarat,Green Peas,45,52 - 57,54 - 74,1kg,N/A
+2024-06-28,Gujarat,Ivy Gourd,28,32 - 36,34 - 46,1kg,N/A
+2024-06-28,Gujarat,Lemon (Lime),110,127 - 140,132 - 182,1kg,N/A
+2024-06-28,Gujarat,Mango Raw,37,43 - 47,44 - 61,1kg,N/A
+2024-06-28,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-28,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-28,Gujarat,Mustard Leaves,15,17 - 19,18 - 25,1kg,N/A
+2024-06-28,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-28,Gujarat,Pumpkin,23,26 - 29,28 - 38,1kg,N/A
+2024-06-28,Gujarat,Radish,34,39 - 43,41 - 56,1kg,N/A
+2024-06-28,Gujarat,Ridge Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-28,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-28,Gujarat,Snake Gourd,33,38 - 42,40 - 54,1kg,N/A
+2024-06-28,Gujarat,Sorrel Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-28,Gujarat,Spinach,12,14 - 15,14 - 20,1kg,N/A
+2024-06-28,Gujarat,Sweet Potato,40,46 - 51,48 - 66,1kg,N/A
+2024-06-29,Gujarat,Onion Big,43,49 - 55,52 - 71,1kg,N/A
+2024-06-29,Gujarat,Onion Small,59,68 - 75,71 - 97,1kg,N/A
+2024-06-29,Gujarat,Tomato,53,61 - 67,64 - 87,1kg,N/A
+2024-06-29,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-29,Gujarat,Beetroot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-29,Gujarat,Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-29,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-29,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-29,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-29,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-29,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-29,Gujarat,Banana Flower,16,18 - 20,19 - 26,1kg,N/A
+2024-06-29,Gujarat,Capsicum,48,55 - 61,58 - 79,1kg,N/A
+2024-06-29,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-29,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-29,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-29,Gujarat,Broad Beans,60,69 - 76,72 - 99,1kg,N/A
+2024-06-29,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-29,Gujarat,Carrot,48,55 - 61,58 - 79,1kg,N/A
+2024-06-29,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-29,Gujarat,Cluster beans,45,52 - 57,54 - 74,1kg,N/A
+2024-06-29,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-06-29,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-29,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-06-29,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-29,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-29,Gujarat,Cucumber,29,33 - 37,35 - 48,1kg,N/A
+2024-06-29,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-06-29,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-29,Gujarat,Drumsticks,120,138 - 152,144 - 198,1kg,N/A
+2024-06-29,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-06-29,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-06-29,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-29,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-29,Gujarat,French Beans,121,139 - 154,145 - 200,1kg,N/A
+2024-06-29,Gujarat,Garlic,228,262 - 290,274 - 376,1kg,N/A
+2024-06-29,Gujarat,Ginger,132,152 - 168,158 - 218,1kg,N/A
+2024-06-29,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-06-29,Gujarat,Green Peas,45,52 - 57,54 - 74,1kg,N/A
+2024-06-29,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-29,Gujarat,Lemon (Lime),96,110 - 122,115 - 158,1kg,N/A
+2024-06-29,Gujarat,Mango Raw,35,40 - 44,42 - 58,1kg,N/A
+2024-06-29,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-29,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-29,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-29,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-29,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-29,Gujarat,Radish,39,45 - 50,47 - 64,1kg,N/A
+2024-06-29,Gujarat,Ridge Gourd,43,49 - 55,52 - 71,1kg,N/A
+2024-06-29,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-29,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-29,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-29,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-29,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
+2024-06-30,Gujarat,Onion Big,43,49 - 55,52 - 71,1kg,N/A
+2024-06-30,Gujarat,Onion Small,59,68 - 75,71 - 97,1kg,N/A
+2024-06-30,Gujarat,Tomato,53,61 - 67,64 - 87,1kg,N/A
+2024-06-30,Gujarat,Green Chilli,64,74 - 81,77 - 106,1kg,N/A
+2024-06-30,Gujarat,Beetroot,41,47 - 52,49 - 68,1kg,N/A
+2024-06-30,Gujarat,Potato,37,43 - 47,44 - 61,1kg,N/A
+2024-06-30,Gujarat,Raw Banana (Plantain),7,8 - 9,8 - 12,1kg,N/A
+2024-06-30,Gujarat,Amaranth Leaves,11,13 - 14,13 - 18,1kg,N/A
+2024-06-30,Gujarat,Amla,70,81 - 89,84 - 116,1kg,N/A
+2024-06-30,Gujarat,Ash gourd,22,25 - 28,26 - 36,1kg,N/A
+2024-06-30,Gujarat,Baby Corn,49,56 - 62,59 - 81,1kg,N/A
+2024-06-30,Gujarat,Banana Flower,16,18 - 20,19 - 26,1kg,N/A
+2024-06-30,Gujarat,Capsicum,48,55 - 61,58 - 79,1kg,N/A
+2024-06-30,Gujarat,Bitter Gourd,35,40 - 44,42 - 58,1kg,N/A
+2024-06-30,Gujarat,Bottle Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-30,Gujarat,Butter Beans,48,55 - 61,58 - 79,1kg,N/A
+2024-06-30,Gujarat,Broad Beans,60,69 - 76,72 - 99,1kg,N/A
+2024-06-30,Gujarat,Cabbage,33,38 - 42,40 - 54,1kg,N/A
+2024-06-30,Gujarat,Carrot,48,55 - 61,58 - 79,1kg,N/A
+2024-06-30,Gujarat,Cauliflower,26,30 - 33,31 - 43,1kg,N/A
+2024-06-30,Gujarat,Cluster beans,45,52 - 57,54 - 74,1kg,N/A
+2024-06-30,Gujarat,Coconut,33,38 - 42,40 - 54,1kg,N/A
+2024-06-30,Gujarat,Colocasia Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-30,Gujarat,Colocasia,26,30 - 33,31 - 43,1kg,N/A
+2024-06-30,Gujarat,Coriander Leaves,10,12 - 13,12 - 17,1kg,N/A
+2024-06-30,Gujarat,Corn,34,39 - 43,41 - 56,1kg,N/A
+2024-06-30,Gujarat,Cucumber,29,33 - 37,35 - 48,1kg,N/A
+2024-06-30,Gujarat,Curry Leaves,26,30 - 33,31 - 43,1kg,N/A
+2024-06-30,Gujarat,Dill Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-30,Gujarat,Drumsticks,120,138 - 152,144 - 198,1kg,N/A
+2024-06-30,Gujarat,Brinjal,34,39 - 43,41 - 56,1kg,N/A
+2024-06-30,Gujarat,Brinjal (Big),35,40 - 44,42 - 58,1kg,N/A
+2024-06-30,Gujarat,Elephant Yam,38,44 - 48,46 - 63,1kg,N/A
+2024-06-30,Gujarat,Fenugreek Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-30,Gujarat,French Beans,121,139 - 154,145 - 200,1kg,N/A
+2024-06-30,Gujarat,Garlic,228,262 - 290,274 - 376,1kg,N/A
+2024-06-30,Gujarat,Ginger,132,152 - 168,158 - 218,1kg,N/A
+2024-06-30,Gujarat,Onion Green,40,46 - 51,48 - 66,1kg,N/A
+2024-06-30,Gujarat,Green Peas,45,52 - 57,54 - 74,1kg,N/A
+2024-06-30,Gujarat,Ivy Gourd,32,37 - 41,38 - 53,1kg,N/A
+2024-06-30,Gujarat,Lemon (Lime),96,110 - 122,115 - 158,1kg,N/A
+2024-06-30,Gujarat,Mango Raw,35,40 - 44,42 - 58,1kg,N/A
+2024-06-30,Gujarat,Mint Leaves,5,6 - 6,6 - 8,1kg,N/A
+2024-06-30,Gujarat,Mushroom,88,101 - 112,106 - 145,1kg,N/A
+2024-06-30,Gujarat,Mustard Leaves,14,16 - 18,17 - 23,1kg,N/A
+2024-06-30,Gujarat,Ladies Finger,45,52 - 57,54 - 74,1kg,N/A
+2024-06-30,Gujarat,Pumpkin,18,21 - 23,22 - 30,1kg,N/A
+2024-06-30,Gujarat,Radish,39,45 - 50,47 - 64,1kg,N/A
+2024-06-30,Gujarat,Ridge Gourd,43,49 - 55,52 - 71,1kg,N/A
+2024-06-30,Gujarat,Shallot (Pearl Onion),34,39 - 43,41 - 56,1kg,N/A
+2024-06-30,Gujarat,Snake Gourd,40,46 - 51,48 - 66,1kg,N/A
+2024-06-30,Gujarat,Sorrel Leaves,12,14 - 15,14 - 20,1kg,N/A
+2024-06-30,Gujarat,Spinach,10,12 - 13,12 - 17,1kg,N/A
+2024-06-30,Gujarat,Sweet Potato,39,45 - 50,47 - 64,1kg,N/A
